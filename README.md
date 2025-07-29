@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="code_analysis/images/full_sample_success.png" alt="Success Rate Results" width="600"/>
-</p>
+</p> 
 
 
 ## Citation
