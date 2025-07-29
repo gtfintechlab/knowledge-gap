@@ -1,0 +1,1603 @@
+Pos,Pld,W,D,L,GF,GA,GD,Pts,Team,PredictedPos,PosDiff,accurate_prediction
+1,18,11,3,4,37,23,+14,25,Barcelona,6,5,False
+2,18,11,1,6,40,27,+13,23,Real Madrid,3,1,False
+3,18,8,4,6,47,34,+13,20[a],Athletic Bilbao,4,1,False
+4,18,8,4,6,46,41,+5,20[a],Real Sociedad,6,2,False
+5,18,8,3,7,33,43,−10,19,Arenas,6,1,False
+6,18,8,2,8,43,41,+2,18[b],Athletic Madrid,6,0,True
+7,18,7,4,7,32,38,−6,18[b],Español,5,2,False
+8,18,6,4,8,45,49,−4,16,Europa,6,2,False
+9,18,5,2,11,40,42,−2,12,Real Unión,14,5,False
+10,18,3,3,12,25,50,−25,9,Racing Santander,6,4,False
+1,18,12,6,0,63,28,+35,30,Athletic Bilbao,3,2,False
+2,18,11,1,6,46,36,+10,23,Barcelona,6,4,False
+3,18,9,2,7,51,40,+11,20[a],Arenas,6,3,False
+4,18,9,2,7,40,33,+7,20[a],Español,5,1,False
+5,18,7,3,8,45,42,+3,17[b],Real Madrid,3,2,False
+6,18,6,5,7,48,52,−4,17[b],Real Unión,14,8,False
+7,18,5,4,9,34,37,−3,14[c],Real Sociedad,6,1,False
+8,18,7,0,11,32,58,−26,14[c],Racing Santander,6,2,False
+9,18,6,1,11,29,44,−15,13,Europa,6,3,False
+10,18,5,2,11,32,50,−18,12,Athletic Madrid,6,4,False
+1,18,11,0,7,73,33,+40,22[a],Athletic Bilbao,4,3,False
+2,18,10,2,6,49,37,+12,22[a],Racing Santander,6,4,False
+3,18,10,2,6,42,39,+3,22[a],Real Sociedad,6,3,False
+4,18,7,7,4,40,43,−3,21,Barcelona,6,2,False
+5,18,8,2,8,35,38,−3,18[b],Arenas,6,1,False
+6,18,7,4,7,24,32,−8,18[b],Real Madrid,3,3,False
+7,18,6,4,8,41,45,−4,16,Real Unión,14,7,False
+8,18,5,4,9,25,39,−14,14[c],Alavés,14,6,False
+9,18,6,2,10,32,45,−13,14[c],Español,6,3,False
+10,18,6,1,11,23,38,−15,13,Europa,6,4,False
+1,18,10,8,0,37,15,+22,28,Madrid FC,3,2,False
+2,18,11,3,4,47,23,+24,25,Athletic Bilbao,4,2,False
+3,18,10,4,4,40,26,+14,24,FC Barcelona,6,3,False
+4,18,7,6,5,36,35,+1,20,Racing Santander,6,2,False
+5,18,7,3,8,35,42,−7,17,Arenas,6,1,False
+6,18,7,1,10,34,39,−5,15[a],Español,6,0,True
+7,18,6,3,9,38,47,−9,15[a],Valencia,6,1,False
+8,18,7,0,11,38,35,+3,14,Donostia,6,2,False
+9,18,5,1,12,22,44,−22,11[b],Alavés,6,3,False
+10,18,4,3,11,24,45,−21,11[b],Unión Club,14,4,False
+1,18,13,2,3,49,17,+32,28,Madrid FC,3,2,False
+2,18,13,0,5,63,30,+33,26,Athletic Bilbao,4,2,False
+3,18,10,2,6,33,30,+3,22,Español,6,3,False
+4,18,7,5,6,42,34,+8,19,Barcelona,6,2,False
+5,18,6,5,7,31,45,−14,17,Betis,6,1,False
+6,18,6,3,9,41,47,−6,15,Donostia,6,0,True
+7,18,5,4,9,39,44,−5,14[a],Arenas,6,1,False
+8,18,6,2,10,47,58,−11,14[a],Racing Santander,6,2,False
+9,18,4,5,9,34,53,−19,13,Valencia,6,3,False
+10,18,5,2,11,21,42,−21,12,Alavés,10,0,True
+1,18,11,2,5,61,27,+34,24,Athletic Bilbao,4,3,False
+2,18,10,2,6,41,29,+12,22,Madrid FC,3,1,False
+3,18,9,1,8,38,39,−1,19[a],Racing Santander,6,3,False
+4,18,9,1,8,29,36,−7,19[a],Betis,6,2,False
+5,18,7,4,7,29,33,−4,18[b],Donostia,6,1,False
+6,18,8,2,8,51,45,+6,18[b],Oviedo,6,0,True
+7,18,7,3,8,28,38,−10,17[c],Valencia,4,3,False
+8,18,7,3,8,41,42,−1,17[c],Español,6,2,False
+9,18,8,0,10,42,40,+2,16,Barcelona,6,3,False
+10,18,3,4,11,18,49,−31,10,Arenas,6,4,False
+1,22,15,4,3,43,19,+24,34,Betis,6,5,False
+2,22,16,1,5,61,34,+27,33,Madrid FC,3,1,False
+3,22,12,2,8,60,47,+13,26,Oviedo,6,3,False
+4,22,11,3,8,60,37,+23,25,Athletic Bilbao,4,0,True
+5,22,11,2,9,53,38,+15,24[a],Sevilla,12,7,False
+6,22,9,6,7,55,44,+11,24[a],Barcelona,6,0,True
+7,22,8,5,9,40,45,−5,21,Athletic Madrid,4,3,False
+8,22,9,2,11,47,59,−12,20[b],Español,6,2,False
+9,22,9,2,11,40,49,−9,20[b],Valencia,6,3,False
+10,22,7,3,12,37,46,−9,17,Racing Santander,6,4,False
+11,22,5,1,16,28,67,−39,11,Donostia,4,7,False
+12,22,3,3,16,17,56,−39,9,Arenas,6,6,False
+1,22,14,3,5,59,33,+26,31,Athletic Bilbao,4,3,False
+2,22,13,3,6,62,35,+27,29,Madrid FC,3,1,False
+3,22,12,4,6,63,47,+16,28,Oviedo[a],6,3,False
+4,22,13,1,8,58,46,+12,27,Racing Santander,6,2,False
+5,22,11,2,9,39,32,+7,24[b],Barcelona,6,1,False
+6,22,11,2,9,37,41,−4,24[b],Hércules,12,6,False
+7,22,9,2,11,31,46,−15,20,Betis,6,1,False
+8,22,7,5,10,36,42,−6,19,Valencia,4,4,False
+9,22,8,1,13,36,53,−17,17,Español,6,3,False
+10,22,6,4,12,27,48,−21,16,Sevilla,6,4,False
+11,22,6,3,13,34,50,−16,15,Athletic Madrid,4,7,False
+12,22,7,0,15,46,55,−9,14,Osasuna,6,6,False
+1,22,14,1,7,43,29,+14,29,Atlético Aviación,1,0,True
+2,22,11,6,5,60,44,+16,28,Sevilla,12,10,False
+3,22,11,4,7,57,44,+13,26,Athletic Bilbao,4,1,False
+4,22,12,1,9,47,35,+12,25,Madrid FC,12,8,False
+5,22,11,2,9,43,43,0,24,Español,5,0,True
+6,22,9,5,8,41,34,+7,23,Hércules,12,6,False
+7,22,7,7,8,30,40,−10,21[a],Zaragoza,6,1,False
+8,22,9,3,10,40,36,+4,21[a],Valencia,4,4,False
+9,22,8,3,11,32,38,−6,19[b],Barcelona,6,3,False
+10,22,9,1,12,45,50,−5,19[b],Celta,6,4,False
+11,22,6,4,12,26,51,−25,16,Betis,6,5,False
+12,22,6,1,15,37,57,−20,13,Racing Santander,6,6,False
+1,22,13,7,2,70,36,+34,33,Atlético Aviación,5,4,False
+2,22,13,5,4,49,24,+25,31,Atlético Bilbao,4,2,False
+3,22,11,5,6,60,52,+8,27[a],Valencia,3,0,True
+4,22,13,1,8,55,45,+10,27[a],Barcelona,6,2,False
+5,22,12,2,8,70,43,+27,26,Sevilla,6,1,False
+6,22,11,2,9,51,38,+13,24,Madrid FC,12,6,False
+7,22,10,2,10,50,54,−4,22,Español,6,1,False
+8,22,7,2,13,36,63,−27,16[b],Oviedo,6,2,False
+9,22,7,2,13,28,67,−39,16[b],Hércules,12,3,False
+10,22,7,1,14,45,51,−6,15,Celta,6,4,False
+11,22,5,4,13,26,41,−15,14,Zaragoza,6,5,False
+12,22,5,3,14,29,55,−26,13,Murcia,14,2,False
+1,26,18,4,4,85,39,+46,40,Valencia,4,3,False
+2,26,14,5,7,65,43,+22,33[a],Real Madrid,11,9,False
+3,26,14,5,7,50,44,+6,33[a],Atlético Aviación,5,2,False
+4,26,12,4,10,36,37,−1,28[b],Deportivo La Coruña,12,8,False
+5,26,11,6,9,53,58,−5,28[b],Celta,6,1,False
+6,26,10,7,9,58,45,+13,27[c],Sevilla,6,0,True
+7,26,10,7,9,55,41,+14,27[c],Atlético Bilbao,5,2,False
+8,26,10,6,10,54,63,−9,26[d],Castellón,14,6,False
+9,26,10,6,10,49,42,+7,26[d],Español,6,3,False
+10,26,10,5,11,64,52,+12,25,Granada,14,4,False
+11,26,8,7,11,42,63,−21,23,Oviedo,6,5,False
+12,26,8,3,15,57,66,−9,19,Barcelona,6,6,False
+13,26,6,5,15,42,71,−29,17,Alicante,14,1,False
+14,26,5,2,19,31,77,−46,12,Real Sociedad,6,8,False
+1,26,16,4,6,73,38,+35,36,Atlético Bilbao,5,4,False
+2,26,15,3,8,63,47,+16,33,Sevilla,6,4,False
+3,26,14,4,8,77,50,+27,32,Barcelona,6,3,False
+4,26,13,5,8,41,43,−2,31,Castellón,14,10,False
+5,26,14,2,10,52,50,+2,30,Celta,12,7,False
+6,26,12,4,10,53,63,−10,28,Oviedo,6,0,True
+7,26,10,7,9,58,45,+13,27[a],Valencia,4,3,False
+8,26,11,5,10,54,44,+10,27[a],Atlético Aviación,5,3,False
+9,26,7,12,7,35,32,+3,26,Deportivo de La Coruña,12,3,False
+10,26,10,5,11,52,50,+2,25,Real Madrid,11,1,False
+11,26,9,6,11,45,51,−6,24,Español,6,5,False
+12,26,9,4,13,56,68,−12,22,Granada,14,2,False
+13,26,2,9,15,25,57,−32,13,Zaragoza,6,7,False
+14,26,2,6,18,28,74,−46,10,Real Betis,6,8,False
+1,26,18,4,4,73,32,+41,40,Valencia,3,2,False
+2,26,15,4,7,66,49,+17,34,Atlético Aviación,5,3,False
+3,26,12,8,6,60,46,+14,32,Sevilla,6,3,False
+4,26,12,5,9,71,47,+24,29[a],Oviedo,4,0,True
+5,26,13,3,10,42,36,+6,29[a],Castellón,14,9,False
+6,26,10,8,8,59,46,+13,28[b],Barcelona,6,0,True
+7,26,11,6,9,48,38,+10,28[b],Real Madrid,11,4,False
+8,26,9,8,9,41,46,−5,26,Granada,14,6,False
+9,26,11,3,12,53,60,−7,25[c],Sabadell,14,5,False
+10,26,10,5,11,47,51,−4,25[c],Atlético Bilbao,5,5,False
+11,26,9,5,12,42,50,−8,23,Español,6,5,False
+12,26,6,7,13,35,64,−29,19,Deportivo La Coruña,14,2,False
+13,26,5,7,14,34,54,−20,17,Real Sociedad,6,7,False
+14,26,2,5,19,23,75,−52,9,Celta,12,2,False
+1,26,17,5,4,50,30,+20,39,Barcelona,6,5,False
+2,26,18,2,6,68,35,+33,38,Real Madrid,3,1,False
+3,26,13,5,8,46,41,+5,31[a],Atlético Aviación,5,2,False
+4,26,13,5,8,50,48,+2,31[a],Oviedo,4,0,True
+5,26,12,6,8,61,35,+26,30[b],Valencia,3,2,False
+6,26,14,2,10,54,41,+13,30[b],Atlético Bilbao,4,2,False
+7,26,9,6,11,42,46,−4,24[c],Real Gijón,14,7,False
+8,26,10,4,12,43,50,−7,24[c],Castellón,14,6,False
+9,26,10,3,13,44,39,+5,23,Español,6,3,False
+10,26,9,4,13,52,49,+3,22,Sevilla,12,2,False
+11,26,7,5,14,40,58,−18,19[d],Murcia,14,3,False
+12,26,7,5,14,40,55,−15,19[d],Granada,12,0,True
+13,26,6,5,15,30,67,−37,17[e],Sabadell,14,1,False
+14,26,5,7,14,36,62,−26,17[e],Deportivo La Coruña,14,0,True
+1,26,14,8,4,53,37,+16,36,Sevilla,6,5,False
+2,26,14,7,5,48,31,+17,35,Barcelona,6,4,False
+3,26,14,5,7,63,38,+25,33,Atlético Bilbao,5,2,False
+4,26,11,9,6,46,30,+16,31,Real Madrid,11,7,False
+5,26,10,10,6,44,37,+7,30,Oviedo,6,1,False
+6,26,9,10,7,44,36,+8,28,Valencia,3,3,False
+7,26,10,6,10,50,48,+2,26[a],Atlético Aviación,5,2,False
+8,26,11,4,11,38,54,−16,26[a],Castellón,14,6,False
+9,26,9,7,10,37,39,−2,25,Real Gijón,14,5,False
+10,26,9,3,14,57,56,+1,21,Celta,6,4,False
+11,26,5,10,11,21,39,−18,20,Murcia,6,5,False
+12,26,6,7,13,41,53,−12,19[b],Español,6,6,False
+13,26,7,5,14,39,54,−15,19[b],Alcoyano,14,1,False
+14,26,5,5,16,30,59,−29,15,Hércules,12,2,False
+1,26,16,2,8,54,34,+20,34[a],Valencia,3,2,False
+2,26,15,4,7,72,38,+34,34[a],Atlético Bilbao,5,3,False
+3,26,13,6,7,58,44,+14,32,Atlético Madrid,6,3,False
+4,26,14,3,9,59,42,+17,31,Barcelona,6,2,False
+5,26,11,8,7,42,36,+6,30,Sabadell,14,9,False
+6,26,12,5,9,54,48,+6,29,Sevilla,12,6,False
+7,26,11,5,10,62,56,+6,27[b],Real Madrid,12,5,False
+8,26,10,7,9,52,42,+10,27[b],Oviedo,6,2,False
+9,26,11,4,11,53,48,+5,26,Celta,6,3,False
+10,26,10,5,11,51,59,−8,25,Real Gijón,14,4,False
+11,26,9,1,16,46,59,−13,19[c],Español,6,5,False
+12,26,6,7,13,30,58,−28,19[c],Murcia,14,2,False
+13,26,5,8,13,32,60,−28,18,Deportivo La Coruña,14,1,False
+14,26,4,5,17,39,80,−41,13,Castellón,14,0,True
+1,26,15,7,4,65,31,+34,37,Barcelona,6,5,False
+2,26,15,4,7,59,34,+25,34,Valencia,3,1,False
+3,26,13,7,6,73,45,+28,33,Atlético Madrid,6,3,False
+4,26,14,3,9,59,48,+11,31,Celta,6,2,False
+5,26,12,5,9,50,40,+10,29,Sevilla,6,1,False
+6,26,12,4,10,56,44,+12,28,Atlético Bilbao,5,1,False
+7,26,10,4,12,49,55,−6,24[a],Gimnástico,14,7,False
+8,26,9,6,11,39,47,−8,24[a],Español,6,2,False
+9,26,9,5,12,49,57,−8,23,Oviedo,6,3,False
+10,26,9,4,13,40,52,−12,22,Alcoyano,14,4,False
+11,26,7,7,12,41,56,−15,21[b],Real Madrid,3,8,False
+12,26,9,3,14,41,62,−21,21[b],Sabadell,14,2,False
+13,26,8,3,15,38,56,−18,19,Real Sociedad,14,1,False
+14,26,7,4,15,37,69,−32,18,Real Gijón,14,0,True
+1,26,16,5,5,66,36,+30,37,Barcelona,6,5,False
+2,26,16,3,7,78,47,+31,35,Valencia,3,1,False
+3,26,15,4,7,67,42,+25,34[a],Real Madrid,3,0,True
+4,26,15,4,7,54,32,+22,34[a],Atlético Madrid,6,2,False
+5,26,13,4,9,50,43,+7,30,Oviedo,6,1,False
+6,26,11,2,13,61,63,−2,24[b],Atlético Bilbao,5,1,False
+7,26,10,4,12,51,46,+5,24[b],Español,6,1,False
+8,26,11,1,14,35,40,−5,23[c],Sevilla,6,2,False
+9,26,10,3,13,59,72,−13,23[c],Gimnástico,14,5,False
+10,26,9,4,13,56,60,−4,22[d],Deportivo La Coruña,14,4,False
+11,26,9,4,13,51,64,−13,22[d],Celta,6,5,False
+12,26,10,2,14,38,59,−21,22[d],Valladolid,14,2,False
+13,26,8,5,13,30,54,−24,21,Alcoyano,14,1,False
+14,26,5,3,18,43,81,−38,13,Sabadell,14,0,True
+1,26,15,3,8,71,51,+20,33,Atlético Madrid,6,5,False
+2,26,12,8,6,48,38,+10,32,Deportivo La Coruña,14,12,False
+3,26,12,7,7,71,43,+28,31[a],Valencia,3,0,True
+4,26,11,9,6,60,49,+11,31[a],Real Madrid,3,1,False
+5,26,13,3,10,67,47,+20,29[b],Barcelona,5,0,True
+6,26,12,5,9,72,66,+6,29[b],Atlético Bilbao,5,1,False
+7,26,13,2,11,63,50,+13,28,Celta,6,1,False
+8,26,9,9,8,57,43,+14,27,Real Sociedad,14,6,False
+9,26,8,9,9,49,46,+3,25[c],Valladolid,14,5,False
+10,26,11,3,12,60,61,−1,25[c],Sevilla,6,4,False
+11,26,8,6,12,42,64,−22,22,Español,6,5,False
+12,26,8,5,13,44,51,−7,21,Málaga,14,2,False
+13,26,7,2,17,39,99,−60,16,Gimnástico,14,1,False
+14,26,4,7,15,30,65,−35,15,Oviedo,6,8,False
+1,30,17,6,7,87,50,+37,40,Atlético Madrid,4,3,False
+2,30,17,4,9,79,46,+33,38,Sevilla,6,4,False
+3,30,17,3,10,64,48,+16,37,Valencia,4,1,False
+4,30,16,3,11,83,61,+22,35,Barcelona,5,1,False
+5,30,15,5,10,77,56,+21,35,Real Sociedad,14,9,False
+6,30,14,5,11,51,51,0,33,Valladolid,14,8,False
+7,30,15,3,12,88,56,+32,33,Atlético Bilbao,5,2,False
+8,30,15,3,12,62,56,+6,33,Celta,12,4,False
+9,30,13,5,12,80,71,+9,31,Real Madrid,3,6,False
+10,30,12,6,12,49,60,−11,30,Real Santander,14,4,False
+11,30,13,4,13,82,72,+10,30,Español,6,5,False
+12,30,13,4,13,64,47,+17,30,Deportivo La Coruña,14,2,False
+13,30,12,5,13,55,52,+3,29,Málaga,14,1,False
+14,30,8,3,19,40,86,−46,19,Murcia,14,0,True
+15,30,6,2,22,36,92,−56,14,Alcoyano,14,1,False
+16,30,6,1,23,41,134,−93,13,Lérida,14,2,False
+1,30,19,5,6,92,43,+49,43,Barcelona,5,4,False
+2,30,17,6,7,78,46,+32,40,Atlético Bilbao,5,3,False
+3,30,16,6,8,79,50,+29,38,Real Madrid,3,0,True
+4,30,16,5,9,80,57,+23,37,Atlético Madrid,6,2,False
+5,30,15,5,10,68,51,+17,35,Valencia,4,1,False
+6,30,14,4,12,69,57,+12,32,Sevilla,12,6,False
+7,30,14,4,12,69,62,+7,32,Español,6,1,False
+8,30,9,11,10,47,43,+4,29,Valladolid,14,6,False
+9,30,12,3,15,64,66,−2,27,Celta Vigo,6,3,False
+10,30,11,4,15,60,59,+1,26,Real Sociedad,14,4,False
+11,30,10,5,15,46,70,−24,25,Deportivo La Coruña,14,3,False
+12,30,10,5,15,54,73,−19,25,Zaragoza,6,6,False
+13,30,10,5,15,49,75,−26,25,Real Gijón,14,1,False
+14,30,9,7,14,45,65,−20,25,Real Santander,14,0,True
+15,30,9,4,17,36,85,−49,22,Las Palmas,14,1,False
+16,30,7,5,18,51,85,−34,19,Atlético Tetuán,15,1,False
+1,30,19,4,7,82,43,+39,42,Barcelona,5,4,False
+2,30,16,8,6,66,42,+24,40,Valencia,4,2,False
+3,30,18,3,9,67,49,+18,39,Real Madrid,3,0,True
+4,30,16,4,10,64,40,+24,36,Español,6,2,False
+5,30,16,2,12,70,57,+13,34,Sevilla,12,7,False
+6,30,14,4,12,83,52,+31,32,Atlético Bilbao,5,1,False
+7,30,11,8,11,39,54,−15,30,Real Gijón,14,7,False
+8,30,13,4,13,65,70,−5,30,Atlético Madrid,4,4,False
+9,30,12,5,13,63,62,+1,29,Oviedo,6,3,False
+10,30,10,8,12,54,61,−7,28,Real Sociedad,14,4,False
+11,30,11,5,14,46,61,−15,27,Real Santander,14,3,False
+12,30,10,5,15,48,54,−6,25,Valladolid,14,2,False
+13,30,10,5,15,54,69,−15,25,Celta Vigo,12,1,False
+14,30,9,6,15,49,78,−29,24,Deportivo La Coruña,14,0,True
+15,30,10,2,18,47,69,−22,22,Málaga,14,1,False
+16,30,6,5,19,38,74,−36,17,Zaragoza,6,10,False
+1,30,17,6,7,72,41,+31,40,Real Madrid,3,2,False
+2,30,16,4,10,74,39,+35,36,Barcelona,5,3,False
+3,30,14,6,10,69,51,+18,34,Valencia,3,0,True
+4,30,14,6,10,50,36,+14,34,Español,6,2,False
+5,30,15,2,13,57,49,+8,32,Sevilla,12,7,False
+6,30,12,8,10,54,44,+10,32,Atlético Bilbao,5,1,False
+7,30,13,5,12,41,46,−5,31,Deportivo La Coruña,14,7,False
+8,30,12,7,11,53,61,−8,31,Real Santander,14,6,False
+9,30,11,7,12,44,58,−14,29,Real Sociedad,14,5,False
+10,30,12,5,13,47,54,−7,29,Celta Vigo,12,2,False
+11,30,11,7,12,57,47,+10,29,Atlético Madrid,4,7,False
+12,30,12,5,13,50,60,−10,29,Valladolid,14,2,False
+13,30,12,4,14,46,54,−8,28,Osasuna,14,1,False
+14,30,11,6,13,55,70,−15,28,Jaén,14,0,True
+15,30,8,6,16,31,53,−22,22,Oviedo,6,9,False
+16,30,7,2,21,44,81,−37,16,Real Gijón,14,2,False
+1,30,20,6,4,80,31,+49,46,Real Madrid,3,2,False
+2,30,17,7,6,75,39,+36,41,Barcelona,5,3,False
+3,30,15,9,6,78,39,+39,39,Atlético Bilbao,5,2,False
+4,30,15,4,11,74,58,+16,34,Sevilla,12,8,False
+5,30,15,3,12,71,60,+11,33,Valencia,4,1,False
+6,30,11,9,10,46,57,−11,31,Hércules,14,8,False
+7,30,12,6,12,52,59,−7,30,Deportivo La Coruña,14,7,False
+8,30,11,7,12,59,64,−5,29,Atlético Madrid,4,4,False
+9,30,11,5,14,48,56,−8,27,Valladolid,14,5,False
+10,30,11,5,14,51,62,−11,27,Alavés,14,4,False
+11,30,10,7,13,55,60,−5,27,Celta Vigo,12,1,False
+12,30,10,7,13,45,69,−24,27,Las Palmas,14,2,False
+13,30,8,10,12,42,46,−4,26,Español,6,7,False
+14,30,9,6,15,48,53,−5,24,Real Sociedad,14,0,True
+15,30,9,2,19,39,81,−42,20,Real Santander,14,1,False
+16,30,6,7,17,36,65,−29,19,Málaga,14,2,False
+1,30,22,4,4,79,31,+48,48,Atlético Bilbao,5,4,False
+2,30,22,3,5,67,26,+41,47,Barcelona,5,3,False
+3,30,18,2,10,81,39,+42,38,Real Madrid,1,2,False
+4,30,17,2,11,75,44,+31,36,Sevilla,12,8,False
+5,30,14,5,11,75,49,+26,33,Atlético Madrid,4,1,False
+6,30,13,6,11,58,50,+8,32,Valencia,3,3,False
+7,30,14,3,13,50,56,−6,31,Español,6,1,False
+8,30,11,8,11,48,53,−5,30,Real Sociedad,14,6,False
+9,30,13,4,13,52,55,−3,30,Valladolid,14,5,False
+10,30,12,3,15,52,75,−23,27,Celta Vigo,12,2,False
+11,30,11,4,15,49,60,−11,26,Las Palmas,14,3,False
+12,30,11,4,15,60,80,−20,26,Deportivo La Coruña,14,2,False
+13,30,10,5,15,46,66,−20,25,Murcia,14,1,False
+14,30,9,6,15,49,73,−24,24,Alavés,14,0,True
+15,30,5,4,21,34,65,−31,14,Cultural Leonesa,14,1,False
+16,30,5,3,22,33,86,−53,13,Hércules,14,2,False
+1,30,20,4,6,74,35,+39,44,Real Madrid,3,2,False
+2,30,17,5,8,64,49,+15,39,Sevilla,12,10,False
+3,30,16,7,7,70,37,+33,39,Barcelona,5,2,False
+4,30,16,5,9,59,45,+14,37,Atlético Bilbao,5,1,False
+5,30,15,4,11,65,45,+20,34,Atlético Madrid,4,1,False
+6,30,12,7,11,40,38,+2,31,Osasuna,14,8,False
+7,30,11,8,11,39,48,−9,30,Español,6,1,False
+8,30,11,6,13,52,58,−6,28,Valladolid,14,6,False
+9,30,11,6,13,37,51,−14,28,Zaragoza,5,4,False
+10,30,9,9,12,41,58,−17,27,Las Palmas,14,4,False
+11,30,10,7,13,43,46,−3,27,Valencia,3,8,False
+12,30,9,8,13,39,47,−8,26,Real Sociedad,14,2,False
+13,30,8,7,15,39,47,−8,23,Celta Vigo,12,1,False
+14,30,9,5,16,37,55,−18,23,Jaén,14,0,True
+15,30,10,2,18,41,61,−20,22,Deportivo La Coruña,14,1,False
+16,30,7,8,15,37,57,−20,22,Condal,14,2,False
+1,30,20,5,5,71,26,+45,45,Real Madrid,1,0,True
+2,30,16,10,4,78,43,+35,42,Atlético Madrid,5,3,False
+3,30,17,4,9,69,38,+31,38,Barcelona,5,2,False
+4,30,13,10,7,56,40,+16,36,Valencia,4,0,True
+5,30,15,5,10,53,43,+10,35,Osasuna,14,9,False
+6,30,14,4,12,56,48,+8,32,Atlético Bilbao,5,1,False
+7,30,13,6,11,50,51,−1,32,Celta,12,5,False
+8,30,11,6,13,48,46,+2,28,Español,6,2,False
+9,30,10,7,13,38,44,−6,27,Real Sociedad,14,5,False
+10,30,9,7,14,45,55,−10,25,Sevilla,12,2,False
+11,30,9,7,14,34,65,−31,25,Las Palmas,14,3,False
+12,30,10,4,16,46,57,−11,24,Real Gijón,14,2,False
+13,30,11,2,17,35,53,−18,24,Granada,12,1,False
+14,30,8,8,14,39,52,−13,24,Zaragoza,5,9,False
+15,30,9,5,16,45,73,−28,23,Valladolid,14,1,False
+16,30,9,2,19,29,58,−29,20,Jaén,14,2,False
+1,30,24,3,3,96,26,+70,51,Barcelona,5,4,False
+2,30,21,5,4,89,29,+60,47,Real Madrid,2,0,True
+3,30,17,2,11,72,33,+39,36,Atlético Bilbao,5,2,False
+4,30,13,7,10,47,41,+6,33,Valencia,4,0,True
+5,30,13,6,11,58,48,+10,32,Atlético Madrid,4,1,False
+6,30,14,4,12,54,53,+1,32,Real Betis,6,0,True
+7,30,11,7,12,42,45,−3,29,Español,6,1,False
+8,30,12,4,14,44,59,−15,28,Osasuna,14,6,False
+9,30,12,4,14,47,60,−13,28,Zaragoza,6,3,False
+10,30,9,10,11,32,33,−1,28,Real Sociedad,14,4,False
+11,30,11,5,14,31,49,−18,27,Oviedo,14,3,False
+12,30,12,2,16,44,58,−14,26,Sevilla,14,2,False
+13,30,11,4,15,30,43,−13,26,Granada,12,1,False
+14,30,10,4,16,43,69,−26,24,Las Palmas,14,0,True
+15,30,7,6,17,25,70,−45,20,Real Gijón,14,1,False
+16,30,4,5,21,21,59,−38,13,Celta Vigo,12,4,False
+1,30,22,2,6,86,28,+58,46,Barcelona,5,4,False
+2,30,21,4,5,92,36,+56,46,Real Madrid[a],1,1,False
+3,30,19,1,10,74,45,+29,39,Atlético Bilbao,5,2,False
+4,30,16,4,10,63,44,+19,36,Sevilla,12,8,False
+5,30,15,3,12,59,40,+19,33,Atlético Madrid,4,1,False
+6,30,13,7,10,38,51,−13,33,Oviedo,6,0,True
+7,30,15,3,12,42,53,−11,33,Real Betis,6,1,False
+8,30,11,8,11,33,29,+4,30,Español,6,2,False
+9,30,11,6,13,37,33,+4,28,Valencia,4,5,False
+10,30,11,5,14,41,64,−23,27,Elche,14,4,False
+11,30,10,5,15,49,58,−9,25,Zaragoza,5,6,False
+12,30,10,5,15,38,52,−14,25,Granada,18,6,False
+13,30,11,3,16,48,61,−13,25,Valladolid,14,1,False
+14,30,10,3,17,41,61,−20,23,Real Sociedad,14,0,True
+15,30,8,2,20,42,75,−33,18,Las Palmas,14,1,False
+16,30,5,3,22,24,77,−53,13,Osasuna,14,2,False
+1,30,24,4,2,89,25,+64,52,Real Madrid,3,2,False
+2,30,17,6,7,57,35,+22,40,Atlético Madrid,4,2,False
+3,30,12,9,9,54,53,+1,33,Zaragoza,5,2,False
+4,30,13,6,11,62,47,+15,32,Barcelona,5,1,False
+5,30,11,10,9,46,42,+4,32,Valencia,4,1,False
+6,30,11,8,11,42,44,−2,30,Real Betis,6,0,True
+7,30,12,6,12,42,41,+1,30,Atlético Bilbao,4,3,False
+8,30,10,10,10,37,46,−9,30,Real Sociedad,14,6,False
+9,30,12,4,14,38,41,−3,28,Mallorca,14,5,False
+10,30,12,3,15,46,46,0,27,Español,6,4,False
+11,30,9,9,12,42,46,−4,27,Sevilla,12,1,False
+12,30,11,4,15,42,47,−5,26,Real Santander,14,2,False
+13,30,10,6,14,39,54,−15,26,Oviedo,14,1,False
+14,30,9,7,14,48,75,−27,25,Elche,14,0,True
+15,30,11,3,16,39,52,−13,25,Valladolid,14,1,False
+16,30,5,7,18,32,61,−29,17,Granada,19,3,False
+1,30,19,5,6,58,24,+34,43,Real Madrid,1,0,True
+2,30,18,4,8,81,46,+35,40,Barcelona,5,3,False
+3,30,15,6,9,50,36,+14,36,Atlético Madrid[a],4,1,False
+4,30,15,5,10,70,51,+19,35,Zaragoza,5,1,False
+5,30,12,8,10,52,38,+14,32,Atlético Bilbao,4,1,False
+6,30,12,7,11,48,45,+3,31,Sevilla[b],12,6,False
+7,30,12,7,11,50,50,0,31,Valencia[c],4,3,False
+8,30,10,9,11,52,52,0,29,Elche,14,6,False
+9,30,10,8,12,39,51,−12,28,Real Betis,12,3,False
+10,30,10,7,13,27,47,−20,27,Oviedo,14,4,False
+11,30,11,5,14,30,47,−17,27,Osasuna,14,3,False
+12,30,10,7,13,54,59,−5,27,Mallorca,14,2,False
+13,30,8,10,12,45,55,−10,26,Español,6,7,False
+14,30,11,4,15,35,54,−19,26,Real Santander,14,0,True
+15,30,9,5,16,37,49,−12,23,Real Sociedad,14,1,False
+16,30,6,7,17,33,57,−24,19,Tenerife,20,4,False
+1,30,23,3,4,83,33,+50,49,Real Madrid,1,0,True
+2,30,14,9,7,61,36,+25,37,Atlético Madrid,4,2,False
+3,30,15,3,12,52,46,+6,33,Oviedo,14,11,False
+4,30,15,3,12,51,53,−2,33,Valladolid,14,10,False
+5,30,14,4,12,54,39,+15,32,Zaragoza,5,0,True
+6,30,11,9,10,45,36,+9,31,Barcelona,5,1,False
+7,30,14,3,13,49,36,+13,31,Valencia,4,3,False
+8,30,11,7,12,48,59,−11,29,Elche,14,6,False
+9,30,12,4,14,41,47,−6,28,Real Betis,12,3,False
+10,30,10,8,12,41,40,+1,28,Atlético Bilbao,6,4,False
+11,30,11,5,14,40,55,−15,27,Sevilla,12,1,False
+12,30,12,3,15,35,39,−4,27,Córdoba,18,6,False
+13,30,11,4,15,47,57,−10,26,Mallorca,14,1,False
+14,30,11,3,16,33,48,−15,25,Deportivo La Coruña,14,0,True
+15,30,9,6,15,39,50,−11,24,Osasuna,14,1,False
+16,30,8,4,18,25,70,−45,20,Málaga,14,2,False
+1,30,22,2,6,61,23,+38,46,Real Madrid,1,0,True
+2,30,19,4,7,74,38,+36,42,Barcelona,11,9,False
+3,30,15,7,8,47,36,+11,37,Real Betis,12,9,False
+4,30,14,6,10,52,42,+10,34,Zaragoza,5,1,False
+5,30,13,7,10,35,31,+4,33,Elche,14,9,False
+6,30,16,0,14,53,47,+6,32,Valencia,4,2,False
+7,30,10,9,11,37,34,+3,29,Atlético Madrid,4,3,False
+8,30,12,5,13,43,40,+3,29,Atlético Bilbao,6,2,False
+9,30,9,11,10,33,38,−5,29,Sevilla,12,3,False
+10,30,10,7,13,43,56,−13,27,Levante,14,4,False
+11,30,10,6,14,32,38,−6,26,Córdoba,18,7,False
+12,30,11,4,15,41,54,−13,26,Murcia,14,2,False
+13,30,10,5,15,34,47,−13,25,Español,6,7,False
+14,30,10,5,15,27,42,−15,25,Oviedo,14,0,True
+15,30,8,5,17,30,45,−15,21,Pontevedra,14,1,False
+16,30,7,5,18,27,58,−31,19,Valladolid,14,2,False
+1,30,21,5,4,64,18,+46,47,Real Madrid,3,2,False
+2,30,20,3,7,58,27,+31,43,Atlético Madrid,4,2,False
+3,30,19,2,9,60,37,+23,40,Zaragoza,5,2,False
+4,30,17,4,9,59,37,+22,38,Valencia,4,0,True
+5,30,16,3,11,36,34,+2,35,Córdoba,18,13,False
+6,30,14,4,12,59,41,+18,32,Barcelona,5,1,False
+7,30,13,6,11,36,41,−5,32,Atlético Bilbao,4,3,False
+8,30,14,3,13,38,43,−5,31,Elche,14,6,False
+9,30,11,7,12,36,43,−7,29,Las Palmas,14,5,False
+10,30,11,4,15,38,50,−12,26,Sevilla,12,2,False
+11,30,12,1,17,37,39,−2,25,Español,6,5,False
+12,30,8,7,15,33,45,−12,23,Real Betis,6,6,False
+13,30,5,13,12,28,49,−21,23,Murcia,14,1,False
+14,30,8,5,17,37,51,−14,21,Levante,14,0,True
+15,30,7,6,17,22,54,−32,20,Oviedo,14,1,False
+16,30,6,3,21,18,50,−32,15,Deportivo La Coruña,14,2,False
+1,30,18,8,4,54,20,+34,44,Atlético Madrid,4,3,False
+2,30,19,5,6,53,30,+23,43,Real Madrid,3,1,False
+3,30,16,6,8,51,27,+24,38,Barcelona,5,2,False
+4,30,14,8,8,47,29,+18,36,Zaragoza,3,1,False
+5,30,14,6,10,43,32,+11,34,Atlético Bilbao,4,1,False
+6,30,12,8,10,36,37,−1,32,Elche,14,8,False
+7,30,13,5,12,31,34,−3,31,Pontevedra,14,7,False
+8,30,9,9,12,27,38,−11,27,Sevilla,12,4,False
+9,30,11,5,14,40,35,+5,27,Valencia,4,5,False
+10,30,9,8,13,32,39,−7,26,Las Palmas,14,4,False
+11,30,10,5,15,34,42,−8,25,Córdoba,18,7,False
+12,30,7,10,13,31,48,−17,24,Español,4,8,False
+13,30,8,8,14,24,37,−13,24,Málaga,14,1,False
+14,30,10,3,17,30,46,−16,23,Sabadell,14,0,True
+15,30,9,5,16,40,55,−15,23,Mallorca,14,1,False
+16,30,7,9,14,36,60,−24,23,Real Betis,12,4,False
+1,30,19,9,2,58,22,+36,47,Real Madrid,2,1,False
+2,30,20,2,8,58,29,+29,42,Barcelona,5,3,False
+3,30,15,7,8,50,40,+10,37,Español,6,3,False
+4,30,14,7,9,57,30,+27,35,Atlético Madrid,4,0,True
+5,30,14,6,10,51,50,+1,34,Zaragoza,3,2,False
+6,30,14,4,12,58,37,+21,32,Valencia,4,2,False
+7,30,11,9,10,43,36,+7,31,Atlético Bilbao,4,3,False
+8,30,11,8,11,35,38,−3,30,Sabadell,14,6,False
+9,30,9,9,12,41,50,−9,27,Elche,14,5,False
+10,30,9,9,12,28,32,−4,27,Pontevedra,14,4,False
+11,30,8,10,12,32,38,−6,26,Las Palmas,14,3,False
+12,30,9,8,13,28,44,−16,26,Córdoba,14,2,False
+13,30,9,7,14,28,47,−19,25,Sevilla,12,1,False
+14,30,8,7,15,32,46,−14,23,Granada,20,6,False
+15,30,6,8,16,32,60,−28,20,Hércules,14,1,False
+16,30,7,4,19,25,57,−32,18,Deportivo La Coruña,14,2,False
+1,30,16,10,4,55,26,+29,42,Real Madrid,2,1,False
+2,30,15,9,6,48,29,+19,39,Barcelona,11,9,False
+3,30,17,4,9,56,41,+15,38,Las Palmas,14,11,False
+4,30,13,8,9,52,38,+14,34,Valencia,4,0,True
+5,30,13,7,10,43,34,+9,33,Zaragoza,3,2,False
+6,30,12,9,9,38,32,+6,33,Atlético Madrid,4,2,False
+7,30,11,10,9,51,28,+23,32,Atlético Bilbao,4,3,False
+8,30,12,7,11,36,41,−5,31,Pontevedra,14,6,False
+9,30,12,5,13,48,44,+4,29,Español,5,4,False
+10,30,9,9,12,29,37,−8,27,Elche,14,4,False
+11,30,11,5,14,30,39,−9,27,Málaga,14,3,False
+12,30,10,6,14,34,51,−17,26,Sabadell,14,2,False
+13,30,11,3,16,35,57,−22,25,Córdoba,18,5,False
+14,30,9,6,15,38,43,−5,24,Real Sociedad,14,0,True
+15,30,8,4,18,30,58,−28,20,Real Betis,12,3,False
+16,30,6,8,16,31,56,−25,20,Sevilla,12,4,False
+1,30,18,11,1,46,21,+25,47,Real Madrid,2,1,False
+2,30,15,8,7,45,34,+11,38,Las Palmas,14,12,False
+3,30,13,10,7,40,18,+22,36,Barcelona,11,8,False
+4,30,10,12,8,33,34,−1,32,Sabadell,14,10,False
+5,30,10,11,9,36,39,−3,31,Valencia,4,1,False
+6,30,10,10,10,40,37,+3,30,Atlético Madrid,4,2,False
+7,30,10,9,11,36,33,+3,29,Real Sociedad,14,7,False
+8,30,11,7,12,26,38,−12,29,Granada,19,11,False
+9,30,7,15,8,25,23,+2,29,Elche,14,5,False
+10,30,11,6,13,39,44,−5,28,Deportivo La Coruña,14,4,False
+11,30,10,8,12,42,46,−4,28,Atlético Bilbao,6,5,False
+12,30,7,13,10,20,23,−3,27,Pontevedra,14,2,False
+13,30,8,10,12,36,36,0,26,Zaragoza,3,10,False
+14,30,9,7,14,37,42,−5,25,Málaga,14,0,True
+15,30,8,8,14,29,36,−7,24,Español,12,3,False
+16,30,5,11,14,31,57,−26,21,Córdoba,18,2,False
+1,30,18,6,6,53,22,+31,42,Atlético Madrid,4,3,False
+2,30,17,7,6,44,20,+24,41,Atlético Bilbao,4,2,False
+3,30,14,7,9,39,32,+7,35,Sevilla,12,9,False
+4,30,13,9,8,40,31,+9,35,Barcelona,11,7,False
+5,30,15,5,10,35,23,+12,35,Valencia,4,1,False
+6,30,13,9,8,50,42,+8,35,Real Madrid,2,4,False
+7,30,15,3,12,47,37,+10,33,Real Sociedad,4,3,False
+8,30,13,7,10,35,39,−4,33,Zaragoza,3,5,False
+9,30,10,7,13,32,40,−8,27,Las Palmas,14,5,False
+10,30,10,7,13,31,39,−8,27,Celta Vigo,14,4,False
+11,30,8,10,12,32,44,−12,26,Elche,14,3,False
+12,30,8,10,12,20,31,−11,26,Granada,19,7,False
+13,30,10,5,15,31,37,−6,25,Sabadell,14,1,False
+14,30,8,9,13,25,32,−7,25,Deportivo La Coruña,14,0,True
+15,30,7,8,15,33,52,−19,22,Mallorca,12,3,False
+16,30,4,5,21,20,46,−26,13,Pontevedra,14,2,False
+1,30,18,7,5,41,19,+22,43,Valencia,4,3,False
+2,30,19,5,6,50,22,+28,43,Barcelona,5,3,False
+3,30,17,8,5,51,20,+31,42,Atlético Madrid,4,1,False
+4,30,17,7,6,46,24,+22,41,Real Madrid,3,1,False
+5,30,14,7,9,40,31,+9,35,Atlético Bilbao,6,1,False
+6,30,15,5,10,37,32,+5,35,Celta Vigo,14,8,False
+7,30,13,6,11,34,42,−8,32,Sevilla,12,5,False
+8,30,10,9,11,23,27,−4,29,Real Sociedad,4,4,False
+9,30,8,12,10,27,32,−5,28,Málaga,18,9,False
+10,30,10,8,12,33,34,−1,28,Granada,19,9,False
+11,30,8,9,13,18,25,−7,25,Español,12,1,False
+12,30,10,5,15,35,44,−9,25,Sporting Gijón,12,0,True
+13,30,8,5,17,28,49,−21,21,Sabadell,14,1,False
+14,30,5,10,15,33,42,−9,20,Las Palmas,14,0,True
+15,30,4,10,16,25,46,−21,18,Elche,14,1,False
+16,30,3,9,18,22,54,−32,15,Zaragoza,3,13,False
+1,34,19,9,6,51,27,+24,47,Real Madrid,3,2,False
+2,34,19,7,8,53,30,+23,45,Valencia,5,3,False
+3,34,17,9,8,40,26,+14,43,Barcelona,6,3,False
+4,34,14,11,9,45,28,+17,39,Atlético Madrid,4,0,True
+5,34,15,8,11,40,36,+4,38,Las Palmas,14,9,False
+6,34,14,8,12,40,34,+6,36,Granada,20,14,False
+7,34,9,17,8,27,31,−4,35,Málaga,15,8,False
+8,34,14,6,14,38,36,+2,34,Real Sociedad,4,4,False
+9,34,15,4,15,39,32,+7,34,Athletic Bilbao,6,3,False
+10,34,10,13,11,37,42,−5,33,Celta Vigo,14,4,False
+11,34,12,8,14,41,37,+4,32,Sporting Gijón,12,1,False
+12,34,12,8,14,43,43,0,32,Español,6,6,False
+13,34,10,10,14,25,45,−20,30,Real Betis,12,1,False
+14,34,11,8,15,28,38,−10,30,Deportivo La Coruña,14,0,True
+15,34,11,7,16,34,42,−8,29,Burgos,14,1,False
+16,34,9,9,16,35,45,−10,27,Sevilla,12,4,False
+17,34,6,13,15,32,51,−19,25,Sabadell,14,3,False
+18,34,7,9,18,27,52,−25,23,Córdoba,18,0,True
+1,34,20,8,6,49,29,+20,48,Atlético Madrid,4,3,False
+2,34,18,10,6,41,21,+20,46,Barcelona,6,4,False
+3,34,17,11,6,48,27,+21,45,Español,12,9,False
+4,34,17,9,8,45,29,+16,43,Real Madrid,3,1,False
+5,34,13,9,12,44,38,+6,35,Castellón,14,9,False
+6,34,12,10,12,37,33,+4,34,Valencia,5,1,False
+7,34,13,8,13,37,39,−2,34,Real Sociedad,4,3,False
+8,34,10,14,10,36,36,0,34,Zaragoza,5,3,False
+9,34,12,9,13,41,38,+3,33,Athletic Bilbao,6,3,False
+10,34,11,11,12,33,29,+4,33,Málaga,18,8,False
+11,34,11,9,14,38,44,−6,31,Las Palmas,14,3,False
+12,34,9,12,13,33,44,−11,30,Oviedo,14,2,False
+13,34,9,11,14,25,32,−7,29,Granada,20,7,False
+14,34,11,7,16,32,37,−5,29,Sporting Gijón,12,2,False
+15,34,10,9,15,30,37,−7,29,Celta Vigo,14,1,False
+16,34,7,14,13,29,36,−7,28,Real Betis,12,4,False
+17,34,7,13,14,22,44,−22,27,Deportivo La Coruña,14,3,False
+18,34,9,6,19,36,63,−27,24,Burgos,14,4,False
+1,34,21,8,5,75,24,+51,50,Barcelona,4,3,False
+2,34,16,8,10,50,31,+19,40,Atlético Madrid,4,2,False
+3,34,16,7,11,51,38,+13,39,Zaragoza,5,2,False
+4,34,15,8,11,46,45,+1,38,Real Sociedad,4,0,True
+5,34,15,7,12,35,31,+4,37,Athletic Bilbao,6,1,False
+6,34,12,12,10,34,35,−1,36,Granada,19,13,False
+7,34,12,12,10,31,32,−1,36,Málaga,18,11,False
+8,34,13,8,13,48,38,+10,34,Real Madrid,3,5,False
+9,34,13,8,13,34,38,−4,34,Español,12,3,False
+10,34,13,7,14,41,33,+8,33,Valencia,5,5,False
+11,34,14,5,15,28,35,−7,33,Las Palmas,14,3,False
+12,34,12,6,16,43,49,−6,30,Celta Vigo,14,2,False
+13,34,13,4,17,49,59,−10,30,Sporting Gijón,12,1,False
+14,34,11,7,16,25,33,−8,29,Elche,14,0,True
+15,34,10,9,15,27,37,−10,29,Murcia,14,1,False
+16,34,9,11,14,28,46,−18,29,Castellón,14,2,False
+17,34,8,11,15,36,54,−18,27,Oviedo,14,3,False
+18,34,9,6,19,29,52,−23,24,Racing Santander,14,4,False
+1,34,20,10,4,66,34,+32,50,Real Madrid,3,2,False
+2,34,15,8,11,58,47,+11,38,Zaragoza,5,3,False
+3,34,15,7,12,57,36,+21,37,Barcelona,5,2,False
+4,34,12,12,10,37,32,+5,36,Real Sociedad,3,1,False
+5,34,11,14,9,37,36,+1,36,Hércules,18,13,False
+6,34,11,13,10,46,34,+12,35,Atlético Madrid,4,2,False
+7,34,10,15,9,33,29,+4,35,Salamanca,14,7,False
+8,34,13,8,13,35,44,−9,34,Elche,14,6,False
+9,34,14,6,14,35,41,−6,34,Real Betis,12,3,False
+10,34,13,7,14,40,42,−2,33,Athletic Bilbao,6,4,False
+11,34,14,5,15,38,47,−9,33,Español,12,1,False
+12,34,12,8,14,53,48,+5,32,Valencia,5,7,False
+13,34,12,8,14,41,39,+2,32,Las Palmas,14,1,False
+14,34,11,10,13,40,40,0,32,Sporting Gijón,12,2,False
+15,34,10,11,13,35,47,−12,31,Granada,20,5,False
+16,34,13,5,16,33,42,−9,31,Málaga,18,2,False
+17,34,10,10,14,30,41,−11,30,Celta Vigo,14,3,False
+18,34,7,9,18,31,66,−35,23,Murcia,18,0,True
+1,34,20,8,6,54,26,+28,48,Real Madrid,3,2,False
+2,34,18,7,9,61,41,+20,43,Barcelona,5,3,False
+3,34,18,6,10,60,38,+22,42,Atlético Madrid,4,1,False
+4,34,18,4,12,48,45,+3,40,Español,12,8,False
+5,34,14,11,9,43,38,+5,39,Athletic Bilbao,4,1,False
+6,34,12,12,10,33,37,−4,36,Hércules,18,12,False
+7,34,15,5,14,34,50,−16,35,Real Betis,12,5,False
+8,34,12,10,12,45,45,0,34,Real Sociedad,3,5,False
+9,34,12,10,12,31,33,−2,34,Salamanca,14,5,False
+10,34,12,8,14,43,41,+2,32,Valencia,5,5,False
+11,34,13,6,15,35,39,−4,32,Sevilla,14,3,False
+12,34,14,4,16,45,56,−11,32,Racing Santander,14,2,False
+13,34,12,6,16,39,43,−4,30,Las Palmas,14,1,False
+14,34,11,8,15,45,43,+2,30,Zaragoza,3,11,False
+15,34,8,12,14,38,49,−11,28,Elche,14,1,False
+16,34,11,5,18,41,45,−4,27,Oviedo,14,2,False
+17,34,8,10,16,29,50,−21,26,Granada,20,3,False
+18,34,7,10,17,41,46,−5,24,Sporting Gijón,12,6,False
+1,34,19,8,7,62,33,+29,46,Atlético Madrid,4,3,False
+2,34,18,9,7,69,34,+35,45,Barcelona,6,4,False
+3,34,15,8,11,55,45,+10,38,Athletic Bilbao,6,3,False
+4,34,15,6,13,56,51,+5,36,Las Palmas,14,10,False
+5,34,15,6,13,42,42,0,36,Real Betis,12,7,False
+6,34,14,8,12,61,59,+2,36,Español,12,6,False
+7,34,13,10,11,53,47,+6,36,Valencia,5,2,False
+8,34,13,8,13,54,41,+13,34,Real Sociedad,3,5,False
+9,34,12,10,12,57,53,+4,34,Real Madrid,3,6,False
+10,34,11,12,11,32,39,−7,34,Sevilla,14,4,False
+11,34,11,11,12,45,47,−2,33,Elche,14,3,False
+12,34,13,6,15,30,34,−4,32,Salamanca,14,2,False
+13,34,11,10,13,35,41,−6,32,Hércules,18,5,False
+14,34,14,4,16,46,50,−4,32,Burgos,14,0,True
+15,34,12,7,15,41,62,−21,31,Racing Santander,14,1,False
+16,34,10,10,14,42,51,−9,30,Zaragoza,3,13,False
+17,34,9,11,14,22,40,−18,29,Celta Vigo,14,3,False
+18,34,6,6,22,27,60,−33,18,Málaga,18,0,True
+1,34,22,3,9,77,40,+37,47,Real Madrid,2,1,False
+2,34,16,9,9,49,29,+20,41,Barcelona,6,4,False
+3,34,16,8,10,62,36,+26,40,Athletic Bilbao,6,3,False
+4,34,16,7,11,54,33,+21,39,Valencia,5,1,False
+5,34,15,9,10,53,43,+10,39,Sporting Gijón,12,7,False
+6,34,16,4,14,61,52,+9,36,Atlético Madrid,4,2,False
+7,34,12,11,11,43,41,+2,35,Las Palmas,14,7,False
+8,34,13,8,13,38,45,−7,34,Sevilla,14,6,False
+9,34,14,6,14,37,40,−3,34,Salamanca,14,5,False
+10,34,12,9,13,50,59,−9,33,Rayo Vallecano,14,4,False
+11,34,12,9,13,52,46,+6,33,Real Sociedad,3,8,False
+12,34,10,11,13,33,47,−14,31,Burgos,14,2,False
+13,34,11,9,14,29,45,−16,31,Racing Santander,14,1,False
+14,34,12,6,16,48,60,−12,30,Español,12,2,False
+15,34,10,10,14,32,40,−8,30,Hércules,18,3,False
+16,34,11,8,15,51,52,−1,30,Real Betis,12,4,False
+17,34,11,5,18,44,66,−22,27,Elche,18,1,False
+18,34,7,8,19,30,69,−39,22,Cádiz,18,0,True
+1,34,16,15,3,61,36,+25,47,Real Madrid,3,2,False
+2,34,17,9,8,50,35,+15,43,Sporting Gijón,12,10,False
+3,34,14,13,7,55,37,+18,41,Atlético Madrid,4,1,False
+4,34,18,5,11,53,36,+17,41,Real Sociedad,3,1,False
+5,34,16,6,12,69,37,+32,38,Barcelona,6,1,False
+6,34,14,9,11,49,43,+6,37,Las Palmas,14,8,False
+7,34,14,7,13,44,39,+5,35,Valencia,5,2,False
+8,34,15,5,14,37,46,−9,35,Español,12,4,False
+9,34,12,10,12,56,46,+10,34,Athletic Bilbao,6,3,False
+10,34,13,8,13,36,40,−4,34,Salamanca,14,4,False
+11,34,12,9,13,47,48,−1,33,Sevilla,14,3,False
+12,34,13,6,15,32,38,−6,32,Hércules,18,6,False
+13,34,10,12,12,38,47,−9,32,Burgos,14,1,False
+14,34,12,6,16,56,59,−3,30,Zaragoza,6,8,False
+15,34,9,11,14,31,54,−23,29,Rayo Vallecano,14,1,False
+16,34,9,10,15,35,55,−20,28,Celta Vigo,14,2,False
+17,34,9,4,21,37,63,−26,22,Racing Santander,14,3,False
+18,34,8,5,21,39,66,−27,21,Recreativo,14,4,False
+1,34,22,9,3,70,33,+37,53,Real Madrid,3,2,False
+2,34,19,14,1,54,20,+34,52,Real Sociedad,2,0,True
+3,34,16,7,11,47,34,+13,39,Sporting Gijón,6,3,False
+4,34,13,12,9,42,33,+9,38,Barcelona,6,2,False
+5,34,12,12,10,42,40,+2,36,Real Betis,12,7,False
+6,34,12,12,10,50,42,+8,36,Valencia,5,1,False
+7,34,15,5,14,52,44,+8,35,Athletic Bilbao,6,1,False
+8,34,14,6,14,50,47,+3,34,Sevilla,12,4,False
+9,34,13,8,13,37,37,0,34,Salamanca,14,5,False
+10,34,11,11,12,41,50,−9,33,Almería,20,10,False
+11,34,13,7,14,43,40,+3,33,Zaragoza,6,5,False
+12,34,13,6,15,36,49,−13,32,Las Palmas,14,2,False
+13,34,10,11,13,38,44,−6,31,Atlético Madrid,4,9,False
+14,34,9,12,13,28,37,−9,30,Español,12,2,False
+15,34,8,12,14,36,39,−3,28,Hércules,18,3,False
+16,34,9,8,17,46,61,−15,26,Rayo Vallecano,14,2,False
+17,34,5,10,19,29,61,−32,20,Burgos,14,3,False
+18,34,8,6,20,28,58,−30,19,Málaga[b],18,0,True
+1,34,20,5,9,66,37,+29,45,Real Sociedad,2,1,False
+2,34,19,7,8,52,29,+23,45,Real Madrid,3,1,False
+3,34,17,8,9,59,41,+18,42,Atlético Madrid,5,2,False
+4,34,16,10,8,46,39,+7,42,Valencia,5,1,False
+5,34,18,5,11,66,41,+25,41,Barcelona,6,1,False
+6,34,17,6,11,55,38,+17,40,Real Betis,12,6,False
+7,34,14,10,10,58,40,+18,38,Sporting Gijón,12,5,False
+8,34,14,9,11,34,42,−8,37,Sevilla,12,4,False
+9,34,14,7,13,64,53,+11,35,Athletic Bilbao,6,3,False
+10,34,14,6,14,37,42,−5,34,Español,12,2,False
+11,34,12,8,14,35,46,−11,32,Osasuna,14,3,False
+12,34,9,13,12,40,46,−6,31,Valladolid,12,0,True
+13,34,10,10,14,42,48,−6,30,Hércules,18,5,False
+14,34,9,11,14,31,44,−13,29,Zaragoza,5,9,False
+15,34,12,4,18,47,61,−14,28,Las Palmas,14,1,False
+16,34,8,7,19,35,49,−14,23,Murcia,18,2,False
+17,34,7,7,20,32,67,−35,21,Salamanca,14,3,False
+18,34,6,7,21,30,66,−36,19,Almería,20,2,False
+1,34,20,7,7,58,33,+25,47,Real Sociedad,2,1,False
+2,34,19,7,8,75,40,+35,45,Barcelona,6,4,False
+3,34,18,8,8,57,34,+23,44,Real Madrid,3,0,True
+4,34,18,4,12,63,41,+22,40,Athletic Bilbao,5,1,False
+5,34,17,5,12,54,46,+8,39,Valencia,6,1,False
+6,34,15,6,13,53,44,+9,36,Real Betis,12,6,False
+7,34,15,5,14,52,39,+13,35,Sevilla,14,7,False
+8,34,15,4,15,38,37,+1,34,Atlético Madrid,5,3,False
+9,34,13,8,13,40,53,−13,34,Valladolid,12,3,False
+10,34,14,6,14,45,45,0,34,Osasuna,14,4,False
+11,34,13,8,13,45,56,−11,34,Zaragoza,6,5,False
+12,34,12,8,14,41,52,−11,32,Racing Santander,14,2,False
+13,34,13,6,15,48,55,−7,32,Español,12,1,False
+14,34,10,9,15,38,44,−6,29,Sporting Gijón,6,8,False
+15,34,11,7,16,41,53,−12,29,Las Palmas,14,1,False
+16,34,13,3,18,31,47,−16,29,Cádiz,18,2,False
+17,34,11,5,18,41,52,−11,27,Hércules,18,1,False
+18,34,3,6,25,33,82,−49,12,Castellón,18,0,True
+1,34,22,6,6,71,36,+35,50,Athletic Bilbao,5,4,False
+2,34,20,9,5,57,25,+32,49,Real Madrid,3,1,False
+3,34,20,6,8,56,38,+18,46,Atlético Madrid,4,1,False
+4,34,17,10,7,60,29,+31,44,Barcelona,2,2,False
+5,34,15,12,7,44,31,+13,42,Sevilla,14,9,False
+6,34,17,6,11,59,39,+20,40,Zaragoza,6,0,True
+7,34,12,12,10,29,27,+2,36,Real Sociedad,2,5,False
+8,34,9,15,10,31,32,−1,33,Sporting Gijón,6,2,False
+9,34,13,6,15,45,47,−2,32,Español,6,3,False
+10,34,10,10,14,37,48,−11,30,Málaga,18,8,False
+11,34,9,12,13,42,45,−3,30,Real Betis,12,1,False
+12,34,9,11,14,34,51,−17,29,Valladolid,12,0,True
+13,34,10,8,16,31,48,−17,28,Salamanca,14,1,False
+14,34,10,6,18,39,54,−15,26,Osasuna,14,0,True
+15,34,9,7,18,42,56,−14,25,Valencia,5,10,False
+16,34,7,11,16,32,55,−23,25,Las Palmas,14,2,False
+17,34,9,6,19,27,56,−29,24,Celta Vigo,14,3,False
+18,34,9,5,20,44,63,−19,23,Racing Santander,14,4,False
+1,34,20,9,5,53,30,+23,49,Athletic Bilbao,5,4,False
+2,34,22,5,7,59,37,+22,49,Real Madrid,2,0,True
+3,34,20,8,6,62,28,+34,48,Barcelona,2,1,False
+4,34,17,8,9,53,47,+6,42,Atlético Madrid,5,1,False
+5,34,17,4,13,45,40,+5,38,Real Betis,12,7,False
+6,34,14,9,11,43,35,+8,37,Real Sociedad,2,4,False
+7,34,12,11,11,50,41,+9,35,Zaragoza,6,1,False
+8,34,13,8,13,42,43,−1,34,Sevilla,12,4,False
+9,34,11,11,12,41,35,+6,33,Málaga,18,9,False
+10,34,10,13,11,42,44,−2,33,Español,12,2,False
+11,34,10,12,12,42,38,+4,32,Murcia,18,7,False
+12,34,12,8,14,45,47,−2,32,Valencia,5,7,False
+13,34,11,8,15,38,47,−9,30,Sporting Gijón,12,1,False
+14,34,11,7,16,44,60,−16,29,Valladolid,12,2,False
+15,34,11,6,17,30,44,−14,28,Osasuna,14,1,False
+16,34,6,10,18,36,51,−15,22,Cádiz,18,2,False
+17,34,3,15,16,27,56,−29,21,Mallorca,6,11,False
+18,34,5,10,19,30,59,−29,20,Salamanca,14,4,False
+1,34,21,11,2,69,25,+44,53,Barcelona,5,4,False
+2,34,16,11,7,51,28,+23,43,Atlético Madrid,5,3,False
+3,34,13,15,6,39,26,+13,41,Athletic Bilbao,6,3,False
+4,34,13,15,6,34,23,+11,41,Sporting Gijón,12,8,False
+5,34,13,10,11,46,36,+10,36,Real Madrid,3,2,False
+6,34,13,8,13,38,38,0,34,Osasuna,14,8,False
+7,34,11,12,11,41,33,+8,34,Real Sociedad,2,5,False
+8,34,11,12,11,40,44,−4,34,Español,6,2,False
+9,34,9,15,10,40,37,+3,33,Valencia,5,4,False
+10,34,11,11,12,39,39,0,33,Zaragoza,6,4,False
+11,34,10,12,12,27,34,−7,32,Racing Santander,14,3,False
+12,34,10,11,13,29,41,−12,31,Sevilla,14,2,False
+13,34,7,16,11,39,45,−6,30,Valladolid,12,1,False
+14,34,11,8,15,37,43,−6,30,Real Betis,12,2,False
+15,34,9,12,13,28,45,−17,30,Hércules,18,3,False
+16,34,7,15,12,23,36,−13,29,Málaga,18,2,False
+17,34,6,14,14,18,37,−19,26,Elche,18,1,False
+18,34,6,10,18,24,52,−28,22,Murcia,18,0,True
+1,34,26,4,4,83,33,+50,56,Real Madrid,3,2,False
+2,34,18,9,7,61,36,+25,45,Barcelona,5,3,False
+3,34,17,9,8,44,31,+13,43,Athletic Bilbao,6,3,False
+4,34,15,12,7,51,34,+17,42,Zaragoza,6,2,False
+5,34,17,8,9,53,38,+15,42,Atlético Madrid,5,0,True
+6,34,13,15,6,37,27,+10,41,Sporting Gijón,12,6,False
+7,34,17,5,12,64,51,+13,39,Real Sociedad,2,5,False
+8,34,11,13,10,40,40,0,35,Real Betis,12,4,False
+9,34,12,10,12,39,34,+5,34,Sevilla,14,5,False
+10,34,13,6,15,54,48,+6,32,Valladolid,12,2,False
+11,34,11,9,14,43,40,+3,31,Español,6,5,False
+12,34,10,11,13,33,34,−1,31,Racing Santander,14,2,False
+13,34,9,9,16,37,65,−28,27,Las Palmas,14,1,False
+14,34,9,9,16,24,33,−9,27,Osasuna,14,0,True
+15,34,9,8,17,30,58,−28,26,Cádiz,18,3,False
+16,34,8,9,17,38,62,−24,25,Valencia,5,11,False
+17,34,8,6,20,35,62,−27,22,Hércules,18,1,False
+18,34,5,4,25,32,72,−40,14,Celta Vigo,14,4,False
+1,34,20,10,4,61,29,+32,50,Real Madrid,2,1,False
+2,34,18,13,3,51,22,+29,49,Barcelona,5,3,False
+3,34,17,9,8,52,30,+22,43,Español,12,9,False
+4,34,14,9,11,47,36,+11,37,Sporting Gijón,12,8,False
+5,34,14,8,12,42,46,−4,36,Mallorca,6,1,False
+6,34,13,10,11,31,30,+1,36,Zaragoza,5,1,False
+7,34,13,9,12,37,40,−3,35,Atlético Madrid,5,2,False
+8,34,13,8,13,36,43,−7,34,Real Betis,12,4,False
+9,34,13,8,13,41,35,+6,34,Sevilla,14,5,False
+10,34,13,8,13,45,35,+10,34,Real Sociedad,2,8,False
+11,34,13,6,15,31,43,−12,32,Murcia,18,7,False
+12,34,11,9,14,31,32,−1,31,Valladolid,12,0,True
+13,34,11,9,14,39,40,−1,31,Athletic Bilbao,5,8,False
+14,34,11,7,16,41,48,−7,29,Las Palmas,14,0,True
+15,34,8,11,15,24,40,−16,27,Osasuna,14,1,False
+16,34,9,8,17,31,49,−18,26,Racing Santander,14,2,False
+17,34,7,11,16,28,50,−22,25,Sabadell,14,3,False
+18,34,8,7,19,22,42,−20,23,Cádiz,18,0,True
+1,38,28,6,4,95,26,+69,62,Real Madrid,2,1,False
+2,38,22,7,9,61,33,+28,51,Real Sociedad,2,0,True
+3,38,19,10,9,60,38,+22,48,Atlético Madrid,5,2,False
+4,38,17,12,9,50,43,+7,46,Athletic Bilbao,6,2,False
+5,38,15,10,13,40,34,+6,40,Osasuna,14,9,False
+6,38,15,9,14,49,44,+5,39,Barcelona,2,4,False
+7,38,14,11,13,43,40,+3,39,Celta Vigo,14,7,False
+8,38,13,12,13,31,34,−3,38,Valladolid,12,4,False
+9,38,14,10,14,44,49,−5,38,Sporting Gijón,12,3,False
+10,38,13,11,14,41,46,−5,37,Sevilla,12,2,False
+11,38,11,14,13,54,56,−2,36,Zaragoza,5,6,False
+12,38,11,13,14,47,54,−7,35,Cádiz,18,6,False
+13,38,12,9,17,28,45,−17,33,Logroñés,6,7,False
+14,38,10,13,15,44,53,−9,33,Valencia,5,9,False
+15,38,11,11,16,44,55,−11,33,Español,12,3,False
+16,38,14,5,19,42,54,−12,33,Real Betis,12,4,False
+17,38,9,13,16,31,42,−11,31,Murcia,18,1,False
+18,38,9,12,17,35,50,−15,30,Mallorca,6,12,False
+19,38,9,11,18,27,48,−21,29,Sabadell,18,1,False
+20,38,12,5,21,43,65,−22,29,Las Palmas,15,5,False
+1,38,25,12,1,91,37,+54,62,Real Madrid,2,1,False
+2,38,23,11,4,80,26,+54,57,Barcelona,2,0,True
+3,38,18,13,7,39,26,+13,49,Valencia,5,2,False
+4,38,19,8,11,69,45,+24,46,Atlético Madrid,5,1,False
+5,38,15,13,10,48,42,+6,43,Zaragoza,5,0,True
+6,38,18,7,13,40,31,+9,43,Valladolid,12,6,False
+7,38,15,12,11,45,35,+10,42,Athletic Bilbao,5,2,False
+8,38,14,11,13,42,48,−6,39,Celta Vigo,14,6,False
+9,38,13,12,13,38,39,−1,38,Sevilla,12,3,False
+10,38,13,11,14,39,43,−4,37,Osasuna,14,4,False
+11,38,11,14,13,38,47,−9,36,Real Sociedad,2,9,False
+12,38,12,11,15,41,48,−7,35,Oviedo,5,7,False
+13,38,13,9,16,42,42,0,35,Sporting Gijón,12,1,False
+14,38,9,16,13,25,37,−12,34,Logroñés,6,8,False
+15,38,9,15,14,31,41,−10,33,Cádiz,18,3,False
+16,38,12,9,17,39,53,−14,33,Málaga,18,2,False
+17,38,7,16,15,29,44,−15,30,Español,6,11,False
+18,38,9,11,18,36,55,−19,29,Real Betis,12,6,False
+19,38,9,6,23,27,58,−31,24,Murcia,20,1,False
+20,38,4,7,27,29,71,−42,15,Elche,18,2,False
+1,38,26,10,2,107,38,+69,62,Real Madrid,2,1,False
+2,38,20,13,5,67,42,+25,53,Valencia,5,3,False
+3,38,23,5,10,83,39,+44,51,Barcelona,2,1,False
+4,38,20,10,8,55,35,+20,50,Atlético Madrid,4,0,True
+5,38,15,14,9,43,35,+8,44,Real Sociedad,2,3,False
+6,38,18,7,13,64,46,+18,43,Sevilla,14,8,False
+7,38,18,5,15,47,51,−4,41,Logroñés,6,1,False
+8,38,14,12,12,42,42,0,40,Osasuna,14,6,False
+9,38,16,8,14,52,52,0,40,Zaragoza,5,4,False
+10,38,11,17,10,36,34,+2,39,Mallorca,6,4,False
+11,38,12,15,11,41,46,−5,39,Oviedo,5,6,False
+12,38,11,15,12,37,39,−2,37,Athletic Bilbao,6,6,False
+13,38,12,10,16,37,34,+3,34,Sporting Gijón,12,1,False
+14,38,9,14,15,30,48,−18,32,Castellón,18,4,False
+15,38,12,6,20,28,63,−35,30,Cádiz,18,3,False
+16,38,8,14,16,31,41,−10,30,Valladolid,7,9,False
+17,38,9,10,19,23,50,−27,28,Málaga,18,1,False
+18,38,8,10,20,42,60,−18,26,Tenerife,6,12,False
+19,38,5,12,21,24,51,−27,22,Celta Vigo,12,7,False
+20,38,6,7,25,32,75,−43,19,Rayo Vallecano,14,6,False
+1,38,25,7,6,74,33,+41,57,Barcelona,5,4,False
+2,38,17,13,8,52,28,+24,47,Atlético Madrid,5,3,False
+3,38,20,6,12,63,37,+26,46,Real Madrid,3,0,True
+4,38,15,15,8,43,34,+9,45,Osasuna,14,10,False
+5,38,16,12,10,50,37,+13,44,Sporting Gijón,14,9,False
+6,38,13,16,9,36,35,+1,42,Oviedo,5,1,False
+7,38,15,10,13,44,40,+4,40,Valencia,5,2,False
+8,38,15,8,15,45,47,−2,38,Sevilla,14,6,False
+9,38,12,13,13,38,40,−2,37,Valladolid,7,2,False
+10,38,13,11,14,28,35,−7,37,Logroñés,14,4,False
+11,38,10,17,11,32,27,+5,37,Real Burgos,18,7,False
+12,38,15,6,17,41,50,−9,36,Athletic Bilbao,6,6,False
+13,38,11,14,13,39,45,−6,36,Real Sociedad,3,10,False
+14,38,14,7,17,37,53,−16,35,Tenerife,14,0,True
+15,38,9,16,13,32,40,−8,34,Mallorca,6,9,False
+16,38,12,10,16,39,47,−8,34,Español,10,6,False
+17,38,11,11,16,36,40,−4,33,Zaragoza,6,11,False
+18,38,7,15,16,29,41,−12,29,Cádiz,18,0,True
+19,38,8,12,18,27,48,−21,28,Castellón,18,1,False
+20,38,6,13,19,37,65,−28,25,Real Betis,12,8,False
+1,38,23,9,6,87,37,+50,55,Barcelona,5,4,False
+2,38,23,8,7,78,32,+46,54,Real Madrid,3,1,False
+3,38,24,5,9,67,35,+32,53,Atlético Madrid,6,3,False
+4,38,20,7,11,63,42,+21,47,Valencia,5,1,False
+5,38,16,12,10,44,38,+6,44,Real Sociedad,3,2,False
+6,38,17,7,14,40,41,−1,41,Zaragoza,6,0,True
+7,38,16,8,14,45,47,−2,40,Albacete,14,7,False
+8,38,15,8,15,37,43,−6,38,Sporting Gijón,14,6,False
+9,38,12,13,13,40,43,−3,37,Real Burgos,18,9,False
+10,38,13,10,15,36,51,−15,36,Logroñés,14,4,False
+11,38,14,8,16,41,46,−5,36,Oviedo,5,6,False
+12,38,13,8,17,48,45,+3,34,Sevilla,14,2,False
+13,38,12,10,16,46,50,−4,34,Tenerife,14,1,False
+14,38,13,7,18,38,58,−20,33,Athletic Bilbao,6,8,False
+15,38,10,13,15,30,40,−10,33,Osasuna,15,0,True
+16,38,12,8,18,43,60,−17,32,Español,6,10,False
+17,38,8,15,15,37,48,−11,31,Deportivo La Coruña,6,11,False
+18,38,7,14,17,32,55,−23,28,Cádiz,18,0,True
+19,38,7,13,18,31,53,−22,27,Valladolid,6,13,False
+20,38,10,7,21,30,49,−19,27,Mallorca,6,14,False
+1,38,25,8,5,87,34,+53,58,Barcelona,5,4,False
+2,38,24,9,5,75,28,+47,57,Real Madrid,3,1,False
+3,38,22,10,6,67,33,+34,54,Deportivo La Coruña,5,2,False
+4,38,19,10,9,60,33,+27,48,Valencia,5,1,False
+5,38,15,14,9,59,47,+12,44,Tenerife,14,9,False
+6,38,16,11,11,52,42,+10,43[b],Atlético Madrid,6,0,True
+7,38,17,9,12,46,44,+2,43[b],Sevilla,14,7,False
+8,38,17,6,15,53,49,+4,40,Athletic Bilbao,5,3,False
+9,38,11,13,14,37,52,−15,35,Zaragoza,5,4,False
+10,38,12,10,16,42,41,+1,34[c],Osasuna,15,5,False
+11,38,9,16,13,25,32,−7,34[c],Celta Vigo,6,5,False
+12,38,11,12,15,38,57,−19,34[c],Sporting Gijón,14,2,False
+13,38,13,8,17,46,59,−13,34[c],Real Sociedad,3,10,False
+14,38,8,17,13,40,49,−9,33[d],Rayo Vallecano,14,0,True
+15,38,11,11,16,32,48,−16,33[d],Logroñés,14,1,False
+16,38,11,10,17,42,52,−10,32,Oviedo,5,11,False
+17,38,11,9,18,54,59,−5,31,Albacete,14,3,False
+18,38,9,11,18,40,56,−16,29,Español,10,8,False
+19,38,5,12,21,30,70,−40,22[e],Cádiz,18,1,False
+20,38,4,14,20,29,69,−40,22[e],Real Burgos,18,2,False
+1,38,25,6,7,91,42,+49,56[a],Barcelona,5,4,False
+2,38,22,12,4,54,18,+36,56[a],Deportivo La Coruña,4,2,False
+3,38,19,8,11,71,47,+24,46,Zaragoza,6,3,False
+4,38,19,7,12,61,50,+11,45,Real Madrid,3,1,False
+5,38,16,11,11,61,47,+14,43,Athletic Bilbao,6,1,False
+6,38,15,12,11,56,42,+14,42,Sevilla,14,8,False
+7,38,14,12,12,55,50,+5,40,Valencia,5,2,False
+8,38,15,8,15,44,42,+2,38,Racing Santander,14,6,False
+9,38,12,13,13,43,49,−6,37,Oviedo,5,4,False
+10,38,15,6,17,50,57,−7,36[c],Tenerife,14,4,False
+11,38,12,12,14,39,47,−8,36[c],Real Sociedad,3,8,False
+12,38,13,9,16,54,54,0,35[d],Atlético Madrid,6,6,False
+13,38,10,15,13,49,58,−9,35[d],Albacete,14,1,False
+14,38,15,5,18,42,57,−15,35[d],Sporting Gijón,14,0,True
+15,38,11,11,16,41,51,−10,33[e],Celta Vigo,6,9,False
+16,38,9,15,14,47,58,−11,33[e],Logroñés,14,2,False
+17,38,9,13,16,40,58,−18,31,Rayo Vallecano,18,1,False
+18,38,8,14,16,28,51,−23,30,Valladolid,6,12,False
+19,38,7,13,18,29,48,−19,27,Lleida,18,1,False
+20,38,8,10,20,34,63,−29,26,Osasuna,15,5,False
+1,38,23,9,6,76,29,+47,55,Real Madrid,3,2,False
+2,38,20,11,7,68,32,+36,51,Deportivo La Coruña,4,2,False
+3,38,15,16,7,46,25,+21,46[b],Real Betis,6,3,False
+4,38,18,10,10,60,45,+15,46[b],Barcelona,5,1,False
+5,38,16,11,11,55,41,+14,43[d],Sevilla[c],14,9,False
+6,38,14,15,9,51,35,+16,43[d],Espanyol[e],14,8,False
+7,38,18,7,13,56,51,+5,43[d],Zaragoza,6,1,False
+8,38,16,10,12,39,42,−3,42,Athletic Bilbao,6,2,False
+9,38,13,13,12,45,42,+3,39,Oviedo,5,4,False
+10,38,13,12,13,53,48,+5,38[g],Valencia,5,5,False
+11,38,12,14,12,56,44,+12,38[g],Real Sociedad,3,8,False
+12,38,13,10,15,42,47,−5,36[h],Racing Santander,14,2,False
+13,38,11,14,13,36,48,−12,36[h],Celta Vigo[c],6,7,False
+14,38,13,9,16,56,54,+2,35[i],Atlético Madrid,6,8,False
+15,38,13,9,16,57,57,0,35[i],Tenerife,14,1,False
+16,38,11,12,15,44,56,−12,34[j],Compostela,18,2,False
+17,38,10,14,14,44,61,−17,34[j],Albacete[c],14,3,False
+18,38,8,12,18,42,67,−25,28,Sporting Gijón,14,4,False
+19,38,8,9,21,25,63,−38,25,Valladolid[c],6,13,False
+20,38,2,9,27,15,79,−64,13,Logroñés,14,6,False
+1,42,26,9,7,75,32,+43,87,Atlético Madrid,6,5,False
+2,42,26,5,11,77,51,+26,83,Valencia,4,2,False
+3,42,22,14,6,72,39,+33,80,Barcelona,3,0,True
+4,42,20,14,8,63,36,+27,74,Espanyol,14,10,False
+5,42,20,12,10,69,54,+15,72,Tenerife,18,13,False
+6,42,20,10,12,75,51,+24,70,Real Madrid,3,3,False
+7,42,17,12,13,62,53,+9,63,Real Sociedad,3,4,False
+8,42,16,14,12,61,54,+7,62,Real Betis,6,2,False
+9,42,16,13,13,63,44,+19,61,Deportivo La Coruña,4,5,False
+10,42,17,8,17,47,54,−7,59,Compostela,18,8,False
+11,42,12,16,14,49,51,−2,52,Celta Vigo,6,5,False
+12,42,11,15,16,43,55,−12,48[b],Sevilla,14,2,False
+13,42,11,15,16,51,59,−8,48[b],Zaragoza,6,7,False
+14,42,12,12,18,48,67,−19,48[b],Oviedo,5,9,False
+15,42,11,15,16,44,55,−11,48[b],Athletic Bilbao,6,9,False
+16,42,11,14,17,57,62,−5,47[c],Valladolid,6,10,False
+17,42,11,14,17,47,69,−22,47[c],Racing Santander,14,3,False
+18,42,13,7,22,51,60,−9,46,Sporting Gijón,14,4,False
+19,42,12,8,22,47,75,−28,44,Rayo Vallecano,18,1,False
+20,42,10,12,20,55,81,−26,42[d],Albacete,14,6,False
+21,42,10,12,20,37,62,−25,42[d],Mérida,18,3,False
+22,42,8,9,25,53,82,−29,33,Salamanca,18,4,False
+1,42,27,11,4,85,36,+49,92,Real Madrid,3,2,False
+2,42,28,6,8,102,48,+54,90,Barcelona,3,1,False
+3,42,21,14,7,57,30,+27,77[a],Deportivo La Coruña,4,1,False
+4,42,21,14,7,81,46,+35,77[a],Real Betis,6,2,False
+5,42,20,11,11,76,64,+12,71,Atlético Madrid,6,1,False
+6,42,16,16,10,72,57,+15,64[c],Athletic Bilbao,6,0,True
+7,42,18,10,14,57,46,+11,64[c],Valladolid,6,1,False
+8,42,18,9,15,50,47,+3,63,Real Sociedad,3,5,False
+9,42,15,11,16,69,57,+12,56[d],Tenerife,18,9,False
+10,42,15,11,16,63,59,+4,56[d],Valencia,4,6,False
+11,42,13,14,15,52,65,−13,53,Compostela,18,7,False
+12,42,14,9,19,51,57,−6,51,Espanyol,14,2,False
+13,42,11,17,14,52,54,−2,50[e],Racing Santander,14,1,False
+14,42,12,14,16,58,66,−8,50[e],Zaragoza,6,8,False
+15,42,13,11,18,45,63,−18,50[e],Sporting Gijón,14,1,False
+16,42,12,13,17,51,54,−3,49,Celta Vigo,6,10,False
+17,42,12,12,18,49,65,−16,48,Oviedo,6,11,False
+18,42,13,6,23,43,62,−19,45,Rayo Vallecano,18,0,True
+19,42,11,11,20,35,64,−29,44,Extremadura,18,1,False
+20,42,12,7,23,50,69,−19,43,Sevilla,14,6,False
+21,42,12,5,25,40,77,−37,41,Hércules,20,1,False
+22,42,9,6,27,33,85,−52,33,Logroñés,18,4,False
+1,38,23,5,10,78,56,+22,74,Barcelona,5,4,False
+2,38,17,14,7,52,42,+10,65,Athletic Bilbao,6,4,False
+3,38,16,15,7,60,37,+23,63[a],Real Sociedad,3,0,True
+4,38,17,12,9,63,45,+18,63[a],Real Madrid,2,2,False
+5,38,16,12,10,55,39,+16,60[c],Mallorca,6,1,False
+6,38,17,9,12,54,47,+7,60[c],Celta Vigo,6,0,True
+7,38,16,12,10,79,56,+23,60[c],Atlético Madrid,6,1,False
+8,38,17,8,13,49,50,−1,59,Real Betis,6,2,False
+9,38,16,7,15,58,52,+6,55,Valencia,3,6,False
+10,38,12,17,9,44,31,+13,53,Espanyol,6,4,False
+11,38,13,11,14,36,47,−11,50,Valladolid,6,5,False
+12,38,12,13,13,44,46,−2,49,Deportivo La Coruña,3,9,False
+13,38,12,12,14,45,53,−8,48,Zaragoza,6,7,False
+14,38,12,9,17,46,55,−9,45[e],Racing Santander,14,0,True
+15,38,12,9,17,46,46,0,45[e],Salamanca,18,3,False
+16,38,11,12,15,44,57,−13,45[e],Tenerife,18,2,False
+17,38,11,11,16,56,66,−10,44,Compostela,18,1,False
+18,38,9,13,16,36,51,−15,40,Oviedo,6,12,False
+19,38,9,12,17,33,53,−20,39,Mérida,18,1,False
+20,38,2,7,29,31,80,−49,13,Sporting Gijón,18,2,False
+1,38,24,7,7,87,43,+44,79,Barcelona,7,6,False
+2,38,21,5,12,77,62,+15,68,Real Madrid,2,0,True
+3,38,20,6,12,48,31,+17,66,Mallorca,6,3,False
+4,38,19,8,11,63,39,+24,65,Valencia,4,0,True
+5,38,17,13,8,69,41,+28,64,Celta Vigo,6,1,False
+6,38,17,12,9,55,43,+12,63,Deportivo La Coruña,4,2,False
+7,38,16,13,9,49,38,+11,61,Espanyol,10,3,False
+8,38,17,9,12,53,47,+6,60,Athletic Bilbao[a],6,2,False
+9,38,16,9,13,57,46,+11,57,Zaragoza,6,3,False
+10,38,14,12,12,47,43,+4,54,Real Sociedad,5,5,False
+11,38,14,7,17,47,58,−11,49,Real Betis,6,5,False
+12,38,13,9,16,35,44,−9,48,Valladolid,14,2,False
+13,38,12,10,16,54,50,+4,46,Atlético Madrid,6,7,False
+14,38,11,12,15,41,57,−16,45,Oviedo,14,0,True
+15,38,10,12,16,41,53,−12,42,Racing Santander,14,1,False
+16,38,11,7,20,36,63,−27,40,Alavés,4,12,False
+17,38,9,12,17,27,53,−26,39,Extremadura,18,1,False
+18,38,8,12,18,47,63,−16,36,Villarreal,18,0,True
+19,38,7,13,18,41,63,−22,34,Tenerife,18,1,False
+20,38,7,6,25,29,66,−37,27,Salamanca,20,0,True
+1,38,21,6,11,66,44,+22,69,Deportivo La Coruña,2,1,False
+2,38,19,7,12,70,46,+24,64[b],Barcelona,2,0,True
+3,38,18,10,10,59,39,+20,64[b],Valencia,4,1,False
+4,38,16,15,7,60,40,+20,63,Zaragoza,6,2,False
+5,38,16,14,8,58,48,+10,62,Real Madrid,2,3,False
+6,38,17,10,11,41,37,+4,61,Alavés,4,2,False
+7,38,15,8,15,45,43,+2,53[d],Celta Vigo,6,1,False
+8,38,14,11,13,36,44,−8,53[d],Valladolid,14,6,False
+9,38,15,7,16,51,53,−2,52,Rayo Vallecano,18,9,False
+10,38,14,9,15,52,45,+7,51,Mallorca,6,4,False
+11,38,12,14,12,47,57,−10,50,Athletic Bilbao,10,1,False
+12,38,11,15,12,55,50,+5,48,Málaga,10,2,False
+13,38,11,14,13,42,49,−7,47[f],Real Sociedad,5,8,False
+14,38,12,11,15,51,48,+3,47[f],Espanyol,10,4,False
+15,38,10,16,12,52,50,+2,46,Racing Santander,10,5,False
+16,38,11,12,15,44,60,−16,45[h],Oviedo,18,2,False
+17,38,11,12,15,47,59,−12,45[h],Numancia,18,1,False
+18,38,11,9,18,33,56,−23,42,Real Betis,6,12,False
+19,38,9,11,18,48,64,−16,38,Atlético Madrid,6,13,False
+20,38,5,13,20,42,67,−25,28,Sevilla,10,10,False
+1,38,24,8,6,81,40,+41,80,Real Madrid,2,1,False
+2,38,22,7,9,73,44,+29,73,Deportivo La Coruña,2,0,True
+3,38,20,11,7,61,43,+18,71,Mallorca,6,3,False
+4,38,17,12,9,80,57,+23,63[a],Barcelona,2,2,False
+5,38,18,9,11,55,34,+21,63[a],Valencia,3,2,False
+6,38,16,11,11,51,49,+2,59,Celta Vigo,6,0,True
+7,38,16,9,13,58,52,+6,57,Villarreal,18,11,False
+8,38,16,8,14,60,61,−1,56,Málaga,10,2,False
+9,38,14,8,16,46,44,+2,50,Espanyol,6,3,False
+10,38,14,7,17,58,59,−1,49,Alavés,4,6,False
+11,38,13,7,18,42,62,−20,46,Las Palmas,20,9,False
+12,38,11,10,17,44,60,−16,43[b],Athletic Bilbao,10,2,False
+13,38,11,10,17,52,68,−16,43[b],Real Sociedad,5,8,False
+14,38,10,13,15,56,68,−12,43[b],Rayo Vallecano,18,4,False
+15,38,10,12,16,43,54,−11,42[c],Osasuna,10,5,False
+16,38,9,15,14,42,50,−8,42[c],Valladolid,14,2,False
+17,38,9,15,14,54,57,−3,42[c],Zaragoza,6,11,False
+18,38,11,8,19,51,67,−16,41,Oviedo,18,0,True
+19,38,10,9,19,48,62,−14,39[e],Racing Santander,10,9,False
+20,38,10,9,19,40,64,−24,39[e],Numancia,18,2,False
+1,38,21,12,5,51,27,+24,75,Valencia,3,2,False
+2,38,20,8,10,65,41,+24,68,Deportivo La Coruña,2,0,True
+3,38,19,9,10,69,44,+25,66,Real Madrid[a],1,2,False
+4,38,18,10,10,65,37,+28,64,Barcelona,2,2,False
+5,38,16,12,10,64,46,+18,60,Celta Vigo,6,1,False
+6,38,15,14,9,42,34,+8,59,Real Betis,5,1,False
+7,38,17,3,18,41,44,−3,54,Alavés[b],4,3,False
+8,38,14,11,13,51,40,+11,53[c],Sevilla,10,2,False
+9,38,14,11,13,54,66,−12,53[c],Athletic Bilbao,10,1,False
+10,38,13,14,11,44,44,0,53[c],Málaga,6,4,False
+11,38,13,10,15,46,52,−6,49,Rayo Vallecano,18,7,False
+12,38,13,9,16,45,58,−13,48,Valladolid,14,2,False
+13,38,13,8,17,48,54,−6,47[d],Real Sociedad,9,4,False
+14,38,13,8,17,47,56,−9,47[d],Espanyol,6,8,False
+15,38,11,10,17,46,55,−9,43[e],Villarreal,7,8,False
+16,38,11,10,17,40,52,−12,43[e],Mallorca,6,10,False
+17,38,10,12,16,36,49,−13,42,Osasuna,6,11,False
+18,38,9,13,16,40,50,−10,40,Las Palmas,20,2,False
+19,38,10,8,20,32,58,−26,38,Tenerife,20,1,False
+20,38,9,10,19,35,54,−19,37,Zaragoza,6,14,False
+1,38,22,12,4,86,42,+44,78,Real Madrid,1,0,True
+2,38,22,10,6,71,45,+26,76,Real Sociedad,18,16,False
+3,38,22,6,10,67,47,+20,72,Deportivo La Coruña,4,1,False
+4,38,17,10,11,45,36,+9,61,Celta Vigo,10,6,False
+5,38,17,9,12,56,35,+21,60,Valencia,3,2,False
+6,38,15,11,12,63,47,+16,56,Barcelona,1,5,False
+7,38,15,10,13,63,61,+2,55,Athletic Bilbao,10,3,False
+8,38,14,12,12,56,53,+3,54,Real Betis,5,3,False
+9,38,14,10,14,49,56,−7,52,Mallorca,6,3,False
+10,38,13,11,14,38,39,−1,50,Sevilla,10,0,True
+11,38,12,11,15,40,48,−8,47[b],Osasuna,6,5,False
+12,38,12,11,15,51,56,−5,47[b],Atlético Madrid,6,6,False
+13,38,11,13,14,44,49,−5,46[c],Málaga,6,7,False
+14,38,12,10,16,37,40,−3,46[c],Valladolid,14,0,True
+15,38,11,12,15,44,53,−9,45,Villarreal,7,8,False
+16,38,13,5,20,54,64,−10,44,Racing Santander,10,6,False
+17,38,10,13,15,48,54,−6,43,Espanyol,6,11,False
+18,38,8,12,18,35,61,−26,36,Recreativo,10,8,False
+19,38,8,11,19,38,68,−30,35,Alavés,4,15,False
+20,38,7,11,20,31,62,−31,32,Rayo Vallecano,18,2,False
+1,38,23,8,7,71,27,+44,77,Valencia,3,2,False
+2,38,21,9,8,63,39,+24,72,Barcelona,1,1,False
+3,38,21,8,9,60,34,+26,71,Deportivo La Coruña,4,1,False
+4,38,21,7,10,72,54,+18,70,Real Madrid,3,1,False
+5,38,15,11,12,53,49,+4,56,Athletic Bilbao,10,5,False
+6,38,15,10,13,56,45,+11,55[a],Sevilla,10,4,False
+7,38,15,10,13,51,53,−2,55[a],Atlético Madrid,6,1,False
+8,38,15,9,14,47,49,−2,54,Villarreal,5,3,False
+9,38,13,13,12,46,43,+3,52,Real Betis,6,3,False
+10,38,15,6,17,50,55,−5,51[b],Málaga,10,0,True
+11,38,15,6,17,54,66,−12,51[b],Mallorca,6,5,False
+12,38,13,9,16,46,55,−9,48[c],Zaragoza,6,6,False
+13,38,11,15,12,38,37,+1,48[c],Osasuna,6,7,False
+14,38,13,8,17,40,48,−8,47,Albacete,18,4,False
+15,38,11,13,14,49,53,−4,46,Real Sociedad,18,3,False
+16,38,13,4,21,48,64,−16,43,Espanyol,6,10,False
+17,38,11,10,17,48,63,−15,42,Racing Santander[e],10,7,False
+18,38,10,11,17,46,56,−10,41,Valladolid,14,4,False
+19,38,9,12,17,48,68,−20,39,Celta Vigo,18,1,False
+20,38,5,11,22,29,57,−28,26,Murcia,20,0,True
+1,38,25,9,4,73,29,+44,84,Barcelona,1,0,True
+2,38,25,5,8,71,32,+39,80,Real Madrid,3,1,False
+3,38,18,11,9,69,37,+32,65,Villarreal,5,2,False
+4,38,16,14,8,62,50,+12,62,Real Betis,6,2,False
+5,38,17,10,11,54,46,+8,61,Espanyol,6,1,False
+6,38,17,9,12,44,41,+3,60,Sevilla,3,3,False
+7,38,14,16,8,54,39,+15,58,Valencia,4,3,False
+8,38,12,15,11,46,50,−4,51[a],Deportivo La Coruña,4,4,False
+9,38,14,9,15,59,54,+5,51[a],Athletic Bilbao,10,1,False
+10,38,15,6,17,40,48,−8,51[a],Málaga,10,0,True
+11,38,13,11,14,40,34,+6,50[b],Atlético Madrid,6,5,False
+12,38,14,8,16,52,57,−5,50[b],Zaragoza,6,6,False
+13,38,12,11,15,38,46,−8,47[c],Getafe,10,3,False
+14,38,13,8,17,47,56,−9,47[c],Real Sociedad,18,4,False
+15,38,12,10,16,46,65,−19,46,Osasuna,6,9,False
+16,38,12,8,18,41,58,−17,44,Racing Santander,10,6,False
+17,38,10,9,19,42,63,−21,39,Mallorca,6,11,False
+18,38,9,10,19,39,58,−19,37,Levante,18,0,True
+19,38,6,11,21,30,61,−31,29,Numancia,18,1,False
+20,38,6,10,22,33,56,−23,28,Albacete,18,2,False
+1,38,25,7,6,80,35,+45,82,Barcelona,1,0,True
+2,38,20,10,8,70,40,+30,70,Real Madrid,3,1,False
+3,38,19,12,7,58,33,+25,69,Valencia,4,1,False
+4,38,21,5,12,49,43,+6,68,Osasuna,6,2,False
+5,38,20,8,10,54,39,+15,68,Sevilla,3,2,False
+6,38,20,4,14,45,33,+12,64,Celta Vigo,18,12,False
+7,38,14,15,9,50,39,+11,57,Villarreal,4,3,False
+8,38,15,10,13,47,45,+2,55,Deportivo La Coruña,4,4,False
+9,38,15,9,14,54,49,+5,54,Getafe,10,1,False
+10,38,13,13,12,45,37,+8,52,Atlético Madrid,4,6,False
+11,38,10,16,12,46,51,−5,46,Zaragoza,6,5,False
+12,38,11,12,15,40,46,−6,45,Athletic Bilbao,10,2,False
+13,38,10,13,15,37,51,−14,43,Mallorca,6,7,False
+14,38,10,12,16,34,51,−17,42,Real Betis,6,8,False
+15,38,10,11,17,36,56,−20,41,Espanyol,6,9,False
+16,38,11,7,20,48,65,−17,40,Real Sociedad,18,2,False
+17,38,9,13,16,36,49,−13,40,Racing Santander,10,7,False
+18,38,9,12,17,35,54,−19,39,Alavés,10,8,False
+19,38,8,12,18,36,52,−16,36,Cádiz,22,3,False
+20,38,5,9,24,36,68,−32,24,Málaga,10,10,False
+1,38,23,7,8,66,40,+26,76[a],Real Madrid,1,0,True
+2,38,22,10,6,78,33,+45,76[a],Barcelona,1,1,False
+3,38,21,8,9,64,35,+29,71,Sevilla,3,0,True
+4,38,20,6,12,57,42,+15,66,Valencia,4,0,True
+5,38,18,8,12,48,44,+4,62,Villarreal,4,1,False
+6,38,16,12,10,55,43,+12,60[b],Zaragoza,6,0,True
+7,38,17,9,12,46,39,+7,60[b],Atlético Madrid,4,3,False
+8,38,15,9,14,54,52,+2,54,Recreativo Huelva,18,10,False
+9,38,14,10,14,39,33,+6,52,Getafe,10,1,False
+10,38,12,14,12,42,48,−6,50,Racing Santander,10,0,True
+11,38,12,13,13,46,53,−7,49[d],Espanyol,6,5,False
+12,38,14,7,17,41,47,−6,49[d],Mallorca,6,6,False
+13,38,12,11,15,32,45,−13,47,Deportivo La Coruña,10,3,False
+14,38,13,7,18,51,49,+2,46,Osasuna,6,8,False
+15,38,10,12,16,37,53,−16,42,Levante,18,3,False
+16,38,8,16,14,36,49,−13,40[e],Real Betis,10,6,False
+17,38,10,10,18,44,62,−18,40[e],Athletic Bilbao,10,7,False
+18,38,10,9,19,40,59,−19,39,Celta Vigo,18,0,True
+19,38,8,11,19,32,47,−15,35,Real Sociedad,18,1,False
+20,38,7,7,24,34,69,−35,28,Gimnàstic,18,2,False
+1,38,27,4,7,84,36,+48,85,Real Madrid,1,0,True
+2,38,24,5,9,63,40,+23,77,Villarreal,4,2,False
+3,38,19,10,9,76,43,+33,67,Barcelona,1,2,False
+4,38,19,7,12,66,47,+19,64[a],Atlético Madrid,4,0,True
+5,38,20,4,14,75,49,+26,64[a],Sevilla,3,2,False
+6,38,17,9,12,42,41,+1,60,Racing Santander,10,4,False
+7,38,15,14,9,69,54,+15,59,Mallorca,6,1,False
+8,38,14,10,14,42,45,−3,52[b],Almería,18,10,False
+9,38,15,7,16,46,47,−1,52[b],Deportivo La Coruña,18,9,False
+10,38,15,6,17,48,62,−14,51,Valencia,4,6,False
+11,38,13,11,14,40,43,−3,50,Athletic Bilbao,10,1,False
+12,38,13,9,16,43,53,−10,48,Espanyol,6,6,False
+13,38,12,11,15,45,51,−6,47[d],Real Betis,10,3,False
+14,38,12,11,15,44,48,−4,47[d],Getafe,6,8,False
+15,38,11,12,15,42,57,−15,45,Valladolid,13,2,False
+16,38,11,11,16,40,60,−20,44,Recreativo Huelva,18,2,False
+17,38,12,7,19,37,44,−7,43,Osasuna,6,11,False
+18,38,10,12,16,50,61,−11,42,Zaragoza,10,8,False
+19,38,7,9,22,36,65,−29,30,Murcia,20,1,False
+20,38,7,5,26,33,75,−42,26,Levante,18,2,False
+1,38,27,6,5,105,35,+70,87,Barcelona,1,0,True
+2,38,25,3,10,83,52,+31,78,Real Madrid,2,0,True
+3,38,21,7,10,54,39,+15,70,Sevilla,3,0,True
+4,38,20,7,11,80,57,+23,67,Atlético Madrid,5,1,False
+5,38,18,11,9,61,54,+7,65,Villarreal,5,0,True
+6,38,18,8,12,68,54,+14,62,Valencia,4,2,False
+7,38,16,10,12,48,47,+1,58,Deportivo La Coruña,18,11,False
+8,38,15,10,13,55,59,−4,55,Málaga,18,10,False
+9,38,14,9,15,53,60,−7,51,Mallorca,6,3,False
+10,38,12,11,15,46,49,−3,47,Espanyol,6,4,False
+11,38,13,7,18,45,61,−16,46[a],Almería,18,7,False
+12,38,12,10,16,49,48,+1,46[a],Racing Santander,10,2,False
+13,38,12,8,18,47,62,−15,44,Athletic Bilbao,10,3,False
+14,38,14,1,23,47,79,−32,43[c],Sporting Gijón,18,4,False
+15,38,10,13,15,41,47,−6,43[c],Osasuna,8,7,False
+16,38,12,7,19,46,58,−12,43[c],Valladolid,13,3,False
+17,38,10,12,16,50,56,−6,42[d],Getafe,7,10,False
+18,38,10,12,16,51,58,−7,42[d],Real Betis,10,8,False
+19,38,10,5,23,38,69,−31,35,Numancia,18,1,False
+20,38,8,9,21,34,57,−23,33,Recreativo Huelva,20,0,True
+1,38,31,6,1,98,24,+74,99,Barcelona,1,0,True
+2,38,31,3,4,102,35,+67,96,Real Madrid,2,0,True
+3,38,21,8,9,59,40,+19,71,Valencia,3,0,True
+4,38,19,6,13,65,49,+16,63,Sevilla,4,0,True
+5,38,18,8,12,59,44,+15,62[a],Mallorca,6,1,False
+6,38,17,7,14,58,48,+10,58,Getafe,7,1,False
+7,38,16,8,14,58,57,+1,56[a],Villarreal,5,2,False
+8,38,15,9,14,50,53,−3,54,Athletic Bilbao,8,0,True
+9,38,13,8,17,57,61,−4,47[b],Atlético Madrid,3,6,False
+10,38,13,8,17,35,49,−14,47[b],Deportivo La Coruña,18,8,False
+11,38,11,11,16,29,46,−17,44,Espanyol,6,5,False
+12,38,11,10,17,37,46,−9,43,Osasuna,8,4,False
+13,38,10,12,16,43,55,−12,42,Almería,18,5,False
+14,38,10,11,17,46,64,−18,41,Zaragoza,10,4,False
+15,38,9,13,16,36,51,−15,40,Sporting Gijón,17,2,False
+16,38,9,12,17,42,59,−17,39,Racing Santander,10,6,False
+17,38,7,16,15,42,48,−6,37,Málaga,18,1,False
+18,38,7,15,16,37,62,−25,36[d],Valladolid,13,5,False
+19,38,9,9,20,40,74,−34,36[d],Tenerife,20,1,False
+20,38,8,10,20,38,66,−28,34,Xerez,20,0,True
+1,38,30,6,2,95,21,+74,96,Barcelona,1,0,True
+2,38,29,5,4,102,33,+69,92,Real Madrid,1,1,False
+3,38,21,8,9,64,44,+20,71,Valencia,3,0,True
+4,38,18,8,12,54,44,+10,62,Villarreal,7,3,False
+5,38,17,7,14,62,61,+1,58[a],Sevilla,3,2,False
+6,38,18,4,16,59,55,+4,58[a],Athletic Bilbao,6,0,True
+7,38,17,7,14,62,53,+9,58[a],Atlético Madrid,3,4,False
+8,38,15,4,19,46,55,−9,49,Espanyol,10,2,False
+9,38,13,8,17,45,46,−1,47[c],Osasuna,8,1,False
+10,38,11,14,13,35,42,−7,47[c],Sporting Gijón,11,1,False
+11,38,13,7,18,54,68,−14,46[d],Málaga,8,3,False
+12,38,12,10,16,41,56,−15,46[d],Racing Santander,18,6,False
+13,38,12,9,17,40,53,−13,45[e],Zaragoza,10,3,False
+14,38,12,9,17,41,52,−11,45[e],Levante,8,6,False
+15,38,14,3,21,49,66,−17,45[e],Real Sociedad,18,3,False
+16,38,12,8,18,49,60,−11,44[f],Getafe,7,9,False
+17,38,12,8,18,41,56,−15,44[f],Mallorca,6,11,False
+18,38,10,13,15,31,47,−16,43,Deportivo La Coruña,18,0,True
+19,38,9,8,21,36,60,−24,35,Hércules,18,1,False
+20,38,6,12,20,36,70,−34,30,Almería,18,2,False
+1,38,32,4,2,121,32,+89,100,Real Madrid,1,0,True
+2,38,28,7,3,114,29,+85,91,Barcelona,1,1,False
+3,38,17,10,11,59,44,+15,61,Valencia,3,0,True
+4,38,17,7,14,54,53,+1,58,Málaga,6,2,False
+5,38,15,11,12,53,46,+7,56,Atlético Madrid,3,2,False
+6,38,16,7,15,54,50,+4,55,Levante,8,2,False
+7,38,13,15,10,44,61,−17,54,Osasuna,8,1,False
+8,38,14,10,14,42,46,−4,52,Mallorca,6,2,False
+9,38,13,11,14,48,47,+1,50,Sevilla,7,2,False
+10,38,12,13,13,49,52,−3,49,Athletic Bilbao,6,4,False
+11,38,12,11,15,40,51,−11,47[c],Getafe,7,4,False
+12,38,12,11,15,46,52,−6,47[c],Real Sociedad,18,6,False
+13,38,13,8,17,47,56,−9,47[c],Real Betis,10,3,False
+14,38,12,10,16,46,56,−10,46,Espanyol,10,4,False
+15,38,13,4,21,53,73,−20,43[d],Rayo Vallecano,18,3,False
+16,38,12,7,19,36,61,−25,43[d],Zaragoza,18,2,False
+17,38,12,6,20,35,56,−21,42,Granada,19,2,False
+18,38,9,14,15,39,53,−14,41,Villarreal,7,11,False
+19,38,10,7,21,42,69,−27,37,Sporting Gijón,11,8,False
+20,38,4,15,19,28,63,−35,27,Racing Santander,18,2,False
+1,38,32,4,2,115,40,+75,100,Barcelona,1,0,True
+2,38,26,7,5,103,42,+61,85,Real Madrid,1,1,False
+3,38,23,7,8,65,31,+34,76,Atlético Madrid,3,0,True
+4,38,18,12,8,70,49,+21,66,Real Sociedad,14,10,False
+5,38,19,8,11,67,54,+13,65,Valencia,4,1,False
+6,38,16,9,13,53,50,+3,57,Málaga,6,0,True
+7,38,16,8,14,57,56,+1,56,Real Betis,10,3,False
+8,38,16,5,17,50,66,−16,53,Rayo Vallecano,15,7,False
+9,38,14,8,16,58,54,+4,50,Sevilla,10,1,False
+10,38,13,8,17,43,57,−14,47,Getafe,10,0,True
+11,38,12,10,16,40,57,−17,46,Levante,8,3,False
+12,38,12,9,17,44,65,−21,45,Athletic Bilbao,4,8,False
+13,38,11,11,16,43,52,−9,44,Espanyol,10,3,False
+14,38,11,10,17,49,58,−9,43,Valladolid,13,1,False
+15,38,11,9,18,37,54,−17,42,Granada,13,2,False
+16,38,10,9,19,33,50,−17,39,Osasuna,18,2,False
+17,38,10,7,21,37,52,−15,37,Celta Vigo,18,1,False
+18,38,9,9,20,43,72,−29,36,Mallorca,11,7,False
+19,38,8,11,19,47,70,−23,35,Deportivo La Coruña,18,1,False
+20,38,9,7,22,37,62,−25,34,Zaragoza,18,2,False
+1,38,28,6,4,77,26,+51,90,Atlético Madrid,3,2,False
+2,38,27,6,5,100,33,+67,87[a],Barcelona,1,1,False
+3,38,27,6,5,104,38,+66,87[a],Real Madrid,1,2,False
+4,38,20,10,8,66,39,+27,70,Athletic Bilbao,7,3,False
+5,38,18,9,11,69,52,+17,63,Sevilla,4,1,False
+6,38,17,8,13,60,44,+16,59[c],Villarreal,7,1,False
+7,38,16,11,11,62,55,+7,59[c],Real Sociedad,7,0,True
+8,38,13,10,15,51,53,−2,49,Valencia,4,4,False
+9,38,14,7,17,49,54,−5,49,Celta Vigo,12,3,False
+10,38,12,12,14,35,43,−8,48,Levante,10,0,True
+11,38,12,9,17,39,46,−7,45,Málaga,6,5,False
+12,38,13,4,21,46,80,−34,43,Rayo Vallecano,15,3,False
+13,38,11,9,18,35,54,−19,42,Getafe,10,3,False
+14,38,11,9,18,41,51,−10,42,Espanyol,10,4,False
+15,38,12,5,21,32,56,−24,41,Granada,10,5,False
+16,38,9,13,16,30,50,−20,40[e],Elche,10,6,False
+17,38,11,7,20,43,71,−28,40[e],Almería,20,3,False
+18,38,10,9,19,32,62,−30,39,Osasuna,18,0,True
+19,38,7,15,16,38,60,−22,36,Valladolid,13,6,False
+20,38,6,7,25,36,78,−42,25,Real Betis,10,10,False
+1,38,30,4,4,110,21,+89,94,Barcelona,1,0,True
+2,38,30,2,6,118,38,+80,92,Real Madrid,1,1,False
+3,38,23,9,6,67,29,+38,78,Atlético Madrid,1,2,False
+4,38,22,11,5,70,32,+38,77,Valencia,4,0,True
+5,38,23,7,8,71,45,+26,76,Sevilla,4,1,False
+6,38,16,12,10,48,37,+11,60,Villarreal,5,1,False
+7,38,15,10,13,42,41,+1,55,Athletic Bilbao,7,0,True
+8,38,13,12,13,47,44,+3,51,Celta Vigo,8,0,True
+9,38,14,8,16,42,48,−6,50,Málaga,6,3,False
+10,38,13,10,15,47,51,−4,49[c],Espanyol,10,0,True
+11,38,15,4,19,46,68,−22,49[c],Rayo Vallecano,15,4,False
+12,38,11,13,14,44,51,−7,46,Real Sociedad,7,5,False
+13,38,11,8,19,35,62,−27,41,Elche[d],18,5,False
+14,38,9,10,19,34,67,−33,37[e],Levante,10,4,False
+15,38,10,7,21,33,64,−31,37[e],Getafe,10,5,False
+16,38,7,14,17,35,60,−25,35[f],Deportivo La Coruña,17,1,False
+17,38,7,14,17,29,64,−35,35[f],Granada,10,7,False
+18,38,9,8,21,34,55,−21,35[f],Eibar,21,3,False
+19,38,8,8,22,35,64,−29,29,Almería[g],20,1,False
+20,38,3,11,24,22,68,−46,20,Córdoba,18,2,False
+1,38,29,4,5,112,29,+83,91,Barcelona,3,2,False
+2,38,28,6,4,110,34,+76,90,Real Madrid,1,1,False
+3,38,28,4,6,63,18,+45,88,Atlético Madrid,3,0,True
+4,38,18,10,10,44,35,+9,64,Villarreal,5,1,False
+5,38,18,8,12,58,45,+13,62,Athletic Bilbao,8,3,False
+6,38,17,9,12,51,59,−8,60,Celta Vigo,6,0,True
+7,38,14,10,14,51,50,+1,52,Sevilla,4,3,False
+8,38,12,12,14,38,35,+3,48[c],Málaga,8,0,True
+9,38,13,9,16,45,48,−3,48[c],Real Sociedad,8,1,False
+10,38,11,12,15,34,52,−18,45,Real Betis,10,0,True
+11,38,12,8,18,45,53,−8,44[d],Las Palmas,10,1,False
+12,38,11,11,16,46,48,−2,44[d],Valencia,4,8,False
+13,38,12,7,19,40,74,−34,43[e],Espanyol,10,3,False
+14,38,11,10,17,49,61,−12,43[e],Eibar,10,4,False
+15,38,8,18,12,45,61,−16,42,Deportivo La Coruña,10,5,False
+16,38,10,9,19,46,69,−23,39[f],Granada,12,4,False
+17,38,10,9,19,40,62,−22,39[f],Sporting Gijón,18,1,False
+18,38,9,11,18,52,73,−21,38,Rayo Vallecano,18,0,True
+19,38,9,9,20,37,67,−30,36,Getafe,14,5,False
+20,38,8,8,22,37,70,−33,32,Levante,10,10,False
+1,38,29,6,3,106,41,+65,93,Real Madrid,3,2,False
+2,38,28,6,4,116,37,+79,90,Barcelona,2,0,True
+3,38,23,9,6,70,27,+43,78,Atlético Madrid,3,0,True
+4,38,21,9,8,69,49,+20,72,Sevilla,4,0,True
+5,38,19,10,9,56,33,+23,67,Villarreal,6,1,False
+6,38,19,7,12,59,53,+6,64,Real Sociedad,8,2,False
+7,38,19,6,13,53,43,+10,63,Athletic Bilbao,8,1,False
+8,38,15,11,12,49,50,−1,56,Espanyol,9,1,False
+9,38,14,13,11,41,43,−2,55,Alavés,8,1,False
+10,38,15,9,14,56,51,+5,54,Eibar,10,0,True
+11,38,12,10,16,49,55,−6,46[b],Málaga,8,3,False
+12,38,13,7,18,56,65,−9,46[b],Valencia,4,8,False
+13,38,13,6,19,53,69,−16,45,Celta Vigo,6,7,False
+14,38,10,9,19,53,74,−21,39[c],Las Palmas,18,4,False
+15,38,10,9,19,41,64,−23,39[c],Real Betis,10,5,False
+16,38,8,12,18,43,61,−18,36,Deportivo La Coruña,15,1,False
+17,38,8,11,19,36,55,−19,35,Leganés,18,1,False
+18,38,7,10,21,42,72,−30,31,Sporting Gijón,18,0,True
+19,38,4,10,24,40,94,−54,22,Osasuna,18,1,False
+20,38,4,8,26,30,82,−52,20,Granada,18,2,False
+1,38,28,9,1,99,29,+70,93,Barcelona,1,0,True
+2,38,23,10,5,58,22,+36,79,Atlético Madrid,3,1,False
+3,38,22,10,6,94,44,+50,76,Real Madrid,3,0,True
+4,38,22,7,9,65,38,+27,73,Valencia,4,0,True
+5,38,18,7,13,57,50,+7,61,Villarreal,7,2,False
+6,38,18,6,14,60,61,−1,60,Real Betis,10,4,False
+7,38,17,7,14,49,58,−9,58,Sevilla,7,0,True
+8,38,15,10,13,42,33,+9,55,Getafe,7,1,False
+9,38,14,9,15,44,50,−6,51[b],Eibar,10,1,False
+10,38,14,9,15,50,59,−9,51[b],Girona,10,0,True
+11,38,12,13,13,36,42,−6,49[c],Espanyol,9,2,False
+12,38,14,7,17,66,59,+7,49[c],Real Sociedad,7,5,False
+13,38,13,10,15,59,60,−1,49[c],Celta Vigo,6,7,False
+14,38,15,2,21,40,50,−10,47,Alavés,9,5,False
+15,38,11,13,14,44,58,−14,46,Levante,8,7,False
+16,38,10,13,15,41,49,−8,43[d],Athletic Bilbao,5,11,False
+17,38,12,7,19,34,51,−17,43[d],Leganés,10,7,False
+18,38,6,11,21,38,76,−38,29,Deportivo La Coruña,19,1,False
+19,38,5,7,26,24,74,−50,22,Las Palmas,19,0,True
+20,38,5,5,28,24,61,−37,20,Málaga,18,2,False
+1,38,26,9,3,90,36,+54,87,Barcelona,1,0,True
+2,38,22,10,6,55,29,+26,76,Atlético Madrid,3,1,False
+3,38,21,5,12,63,46,+17,68,Real Madrid,3,0,True
+4,38,15,16,7,51,35,+16,61,Valencia,4,0,True
+5,38,15,14,9,48,35,+13,59[a],Getafe,5,0,True
+6,38,17,8,13,62,47,+15,59[a],Sevilla,4,2,False
+7,38,14,11,13,48,50,−2,53[c],Espanyol,10,3,False
+8,38,13,14,11,41,45,−4,53[c],Athletic Bilbao,8,0,True
+9,38,13,11,14,45,46,−1,50[d],Real Sociedad,7,2,False
+10,38,14,8,16,44,52,−8,50[d],Real Betis,5,5,False
+11,38,13,11,14,39,50,−11,50[d],Alavés,9,2,False
+12,38,11,14,13,46,50,−4,47,Eibar,10,2,False
+13,38,11,12,15,37,43,−6,45,Leganés,11,2,False
+14,38,10,14,14,49,52,−3,44[e],Villarreal,9,5,False
+15,38,11,11,16,59,66,−7,44[e],Levante,8,7,False
+16,38,10,11,17,32,51,−19,41[f],Valladolid,13,3,False
+17,38,10,11,17,53,62,−9,41[f],Celta Vigo,8,9,False
+18,38,9,10,19,37,53,−16,37,Girona,18,0,True
+19,38,7,12,19,43,65,−22,33,Huesca,18,1,False
+20,38,8,8,22,41,70,−29,32,Rayo Vallecano,18,2,False
+1,38,26,9,3,70,25,+45,87,Real Madrid,3,2,False
+2,38,25,7,6,86,38,+48,82,Barcelona,2,0,True
+3,38,18,16,4,51,27,+24,70,Atlético Madrid,3,0,True
+4,38,19,13,6,54,34,+20,70,Sevilla,4,0,True
+5,38,18,6,14,63,49,+14,60,Villarreal,7,2,False
+6,38,16,8,14,56,48,+8,56,Real Sociedad,6,0,True
+7,38,16,8,14,52,45,+7,56,Granada,11,4,False
+8,38,14,12,12,43,37,+6,54,Getafe,5,3,False
+9,38,14,11,13,46,53,−7,53,Valencia,4,5,False
+10,38,13,13,12,46,54,−8,52,Osasuna,16,6,False
+11,38,13,12,13,41,38,+3,51,Athletic Bilbao,8,3,False
+12,38,14,7,17,47,53,−6,49,Levante,8,4,False
+13,38,9,15,14,32,43,−11,42,Valladolid,13,0,True
+14,38,11,9,18,39,56,−17,42,Eibar,18,4,False
+15,38,10,11,17,48,60,−12,41,Real Betis,10,5,False
+16,38,10,9,19,34,59,−25,39,Alavés,8,8,False
+17,38,7,16,15,37,49,−12,37,Celta Vigo,11,6,False
+18,38,8,12,18,30,51,−21,36,Leganés,18,0,True
+19,38,9,6,23,40,65,−25,33,Mallorca,18,1,False
+20,38,5,10,23,27,58,−31,25,Espanyol,18,2,False
+1,38,26,8,4,67,25,+42,86,Atlético Madrid,3,2,False
+2,38,25,9,4,67,28,+39,84,Real Madrid,3,1,False
+3,38,24,7,7,85,38,+47,79,Barcelona,2,1,False
+4,38,24,5,9,53,33,+20,77,Sevilla,4,0,True
+5,38,17,11,10,59,38,+21,62,Real Sociedad,6,1,False
+6,38,17,10,11,50,50,0,61,Real Betis,5,1,False
+7,38,15,13,10,60,44,+16,58,Villarreal,7,0,True
+8,38,14,11,13,55,57,−2,53,Celta Vigo,10,2,False
+9,38,13,7,18,47,65,−18,46[d],Granada,9,0,True
+10,38,11,13,14,46,42,+4,46[d],Athletic Bilbao,4,6,False
+11,38,11,11,16,37,48,−11,44[e],Osasuna,10,1,False
+12,38,11,11,16,36,58,−22,44[e],Cádiz,16,4,False
+13,38,10,13,15,50,53,−3,43,Valencia,4,9,False
+14,38,9,14,15,46,57,−11,41,Levante,7,7,False
+15,38,9,11,18,28,43,−15,38,Getafe,7,8,False
+16,38,9,11,18,36,57,−21,38,Alavés,14,2,False
+17,38,8,12,18,34,55,−21,36,Elche,11,6,False
+18,38,7,13,18,34,53,−19,34,Huesca,20,2,False
+19,38,5,16,17,34,57,−23,31,Valladolid,13,6,False
+20,38,6,12,20,29,52,−23,30,Eibar,18,2,False
+1,38,26,8,4,80,31,+49,86,Real Madrid,1,0,True
+2,38,21,10,7,68,38,+30,73,Barcelona,7,5,False
+3,38,21,8,9,65,43,+22,71,Atlético Madrid,3,0,True
+4,38,18,16,4,53,30,+23,70,Sevilla,4,0,True
+5,38,19,8,11,62,40,+22,65,Real Betis,5,0,True
+6,38,17,11,10,40,37,+3,62,Real Sociedad,4,2,False
+7,38,16,11,11,63,37,+26,59,Villarreal,7,0,True
+8,38,14,13,11,43,36,+7,55,Athletic Bilbao,6,2,False
+9,38,11,15,12,48,53,−5,48,Valencia,7,2,False
+10,38,12,11,15,37,51,−14,47,Osasuna,10,0,True
+11,38,12,10,16,43,43,0,46,Celta Vigo,11,0,True
+12,38,11,9,18,39,50,−11,42[b],Rayo Vallecano,11,1,False
+13,38,11,9,18,40,52,−12,42[b],Elche,11,2,False
+14,38,10,12,16,40,53,−13,42[b],Espanyol,13,1,False
+15,38,8,15,15,33,41,−8,39[c],Getafe,15,0,True
+16,38,10,9,19,36,63,−27,39[c],Mallorca,6,10,False
+17,38,8,15,15,35,51,−16,39[c],Cádiz,16,1,False
+18,38,8,14,16,44,61,−17,38,Granada,18,0,True
+19,38,8,11,19,51,76,−25,35,Levante,17,2,False
+20,38,8,7,23,31,65,−34,31,Alavés,19,1,False
+1,38,28,4,6,70,20,+50,88,Barcelona,1,0,True
+2,38,24,6,8,75,36,+39,78,Real Madrid,1,1,False
+3,38,23,8,7,70,33,+37,77,Atlético Madrid,3,0,True
+4,38,21,8,9,51,35,+16,71,Real Sociedad,4,0,True
+5,38,19,7,12,59,40,+19,64,Villarreal,7,2,False
+6,38,17,9,12,46,41,+5,60,Real Betis,4,2,False
+7,38,15,8,15,37,42,−5,53,Osasuna,14,7,False
+8,38,14,9,15,47,43,+4,51,Athletic Bilbao,9,1,False
+9,38,14,8,16,37,43,−6,50,Mallorca,6,3,False
+10,38,13,10,15,58,55,+3,49[b],Girona,10,0,True
+11,38,13,10,15,45,53,−8,49[b],Rayo Vallecano,11,0,True
+12,38,13,10,15,47,54,−7,49[b],Sevilla,7,5,False
+13,38,11,10,17,43,53,−10,43,Celta Vigo,12,1,False
+14,38,10,12,16,30,53,−23,42[d],Cádiz,16,2,False
+15,38,10,12,16,34,45,−11,42[d],Getafe,15,0,True
+16,38,11,9,18,42,45,−3,42[d],Valencia,7,9,False
+17,38,11,8,19,49,65,−16,41,Almería,15,2,False
+18,38,11,7,20,33,63,−30,40,Valladolid,11,7,False
+19,38,8,13,17,52,69,−17,37,Espanyol,13,6,False
+20,38,5,10,23,30,67,−37,25,Elche,19,1,False
+1,38,29,8,1,87,26,+61,95,Real Madrid,1,0,True
+2,38,26,7,5,79,44,+35,85,Barcelona,1,1,False
+3,38,25,6,7,85,46,+39,81,Girona,10,7,False
+4,38,24,4,10,70,43,+27,76,Atlético Madrid,7,3,False
+5,38,19,11,8,61,37,+24,68,Athletic Bilbao,14,9,False
+6,38,16,12,10,51,39,+12,60,Real Sociedad,12,6,False
+7,38,14,15,9,48,45,+3,57,Real Betis,15,8,False
+8,38,14,11,13,65,65,0,53,Villarreal,7,1,False
+9,38,13,10,15,40,45,−5,49,Valencia,14,5,False
+10,38,12,10,16,36,46,−10,46,Alavés,14,4,False
+11,38,12,9,17,45,56,−11,45,Osasuna,14,3,False
+12,38,10,13,15,42,54,−12,43,Getafe,14,2,False
+13,38,10,11,17,46,57,−11,41[b],Celta Vigo,12,1,False
+14,38,10,11,17,48,54,−6,41[b],Sevilla,11,3,False
+15,38,8,16,14,33,44,−11,40[c],Mallorca,12,3,False
+16,38,10,10,18,33,47,−14,40[c],Las Palmas,22,6,False
+17,38,8,14,16,29,48,−19,38,Rayo Vallecano,11,6,False
+18,38,6,15,17,26,55,−29,33,Cádiz,16,2,False
+19,38,3,12,23,43,75,−32,21[d],Almería,15,4,False
+20,38,4,9,25,38,79,−41,21[d],Granada,14,6,False
