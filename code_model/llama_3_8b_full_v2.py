@@ -11,7 +11,7 @@ from openai import OpenAI
 today = date.today()
 
 # setup client
-client = OpenAI(api_key="838a259fd73856ed418fc3af1ff1f731d5f2129530d32f0b5ae8764c564942a8",
+client = OpenAI(api_key="",
   base_url='https://api.together.xyz',
 )
 
